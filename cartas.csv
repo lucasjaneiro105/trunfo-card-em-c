@@ -1,0 +1,1001 @@
+id,primeiroNome,sobrenome,idade,time,valorMercado,forca,velocidade,resistencia,forcaVontade,criatividade,lideranca,posicao,machucado
+1,Gustavo,Castro,28,Santos,224508,55,60,76,69,62,1,LIBERO,7
+2,Thiago,Lima,28,Portuguesa,1862027,84,94,63,77,91,1,MEIO,2
+3,Eduardo,Carvalho,24,Santos,740065,61,64,73,68,51,0,LIBERO,4
+4,Breno,Silva,26,Goiás,5037135,98,88,62,84,77,1,DEFESA,8
+5,Peron,Menezes,30,Palmeiras,3589187,59,85,54,70,79,1,MEIO,0
+6,Gustavo,Neves,29,São Paulo,3805103,79,68,88,79,52,1,GOL,9
+7,Ricardo,Lemos,27,Chapecoense,3666019,71,82,58,82,62,1,ATAQUE,1
+8,Rafael,Santiago,30,Chapecoense,1279910,70,61,63,50,53,1,MEIO,7
+9,Ricardo,Nascimento,31,São Paulo,4489432,89,73,54,61,62,1,GOL,7
+10,Eduardo,Menezes,31,Goiás,1110693,92,75,54,63,69,1,LIBERO,3
+11,Rafael,Reis,25,Cruzeiro,3789737,71,67,72,60,78,1,LIBERO,2
+12,Breno,Araujo,22,Chapecoense,2787720,88,66,64,80,70,1,MEIO,9
+13,Lucas,Gomes,27,Chapecoense,109662,97,52,99,68,71,0,ATAQUE,1
+14,Maurício,Becker,27,Palmeiras,3848188,63,92,59,53,75,0,LIBERO,5
+15,Caue,Menezes,29,Santos,4156389,51,53,51,98,53,0,LIBERO,4
+16,Rafael,Rodrigues,31,Flamengo,476606,72,75,95,85,56,1,ATAQUE,3
+17,Ricardo,Becker,28,Fluminense,3783320,66,50,62,67,63,1,DEFESA,6
+18,Jean,Silva,26,Santos,1039585,71,84,93,93,88,0,GOL,6
+19,Carlos,Janeiro,32,Vitória,3167645,59,53,67,78,79,1,LIBERO,5
+20,Ricardo,Janeiro,29,Corinthians,2676562,56,82,99,79,93,0,LIBERO,3
+21,Ricardo,Gomes,18,Fluminense,3209773,61,73,70,73,88,1,DEFESA,7
+22,Davi,Janeiro,20,Palmeiras,4414812,76,64,77,84,76,0,MEIO,9
+23,Lucas,Menezes,31,Internacional,1781609,83,72,83,96,53,1,ATAQUE,3
+24,Peron,Menezes,24,Grêmio,180449,75,86,61,53,88,0,DEFESA,5
+25,João,Reis,24,Fortaleza,1230017,89,92,76,74,61,1,DEFESA,7
+26,Marcelo,Menezes,18,Internacional,1668992,73,88,91,99,55,0,LIBERO,5
+27,Pedro,Becker,20,Vasco,2765552,99,95,69,88,98,1,ATAQUE,1
+28,Henrique,Menezes,21,Vasco,192552,89,93,96,62,90,1,ATAQUE,7
+29,Davi,Santiago,25,São Paulo,2904821,55,61,73,56,95,0,GOL,3
+30,Gustavo,Costa,22,Volta Redonda,3360266,85,76,70,74,66,0,ATAQUE,8
+31,Pedro,Lemos,23,São Paulo,4673452,50,84,73,57,96,1,GOL,1
+32,Carlos,Silva,24,Grêmio,1133300,93,70,66,78,88,0,GOL,5
+33,Peron,Lima,18,Fluminense,3184988,71,68,90,73,63,0,MEIO,1
+34,Matheus,Costa,21,Vitória,2150860,91,75,61,84,79,0,DEFESA,8
+35,Henrique,Castro,28,Grêmio,4502843,90,57,81,63,73,0,ATAQUE,6
+36,Rafael,Lima,18,Grêmio,2188795,53,66,56,96,67,1,DEFESA,8
+37,Fernando,Reis,29,Vitória,2542506,91,75,50,84,83,1,LIBERO,7
+38,Davi,Santiago,23,Fluminense,1065635,95,68,80,50,86,1,LIBERO,5
+39,Eduardo,Santos,32,Internacional,1733011,70,89,67,64,69,0,DEFESA,3
+40,Carlos,Pereira,23,América,421065,55,94,50,51,82,1,GOL,9
+41,Lucas,Carvalho,29,Portuguesa,1841150,80,56,63,51,81,1,GOL,0
+42,Thiago,Neves,18,Vasco,4012680,65,58,95,73,97,0,ATAQUE,0
+43,Breno,Costa,24,Portuguesa,656997,77,60,50,58,63,1,MEIO,6
+44,Lucas,Araujo,32,América,2462489,54,67,69,72,65,1,LIBERO,4
+45,Matheus,Cavalcanti,29,Santos,2236465,97,82,65,77,67,1,DEFESA,2
+46,Davi,Lima,32,Corinthians,4525149,80,77,90,86,60,0,MEIO,7
+47,Ricardo,Gomes,29,Vasco,777849,88,83,66,87,81,0,MEIO,0
+48,Gustavo,Menezes,26,Grêmio,1216801,64,81,53,96,93,0,MEIO,3
+49,Caue,Carvalho,25,Fluminense,4816832,74,77,83,64,50,1,MEIO,3
+50,Rafael,Janeiro,32,Chapecoense,2473016,69,71,69,85,72,1,ATAQUE,8
+51,Matheus,Silva,29,Fluminense,3158401,56,55,83,80,69,0,LIBERO,9
+52,Leonardo,Gomes,22,Internacional,3035413,90,85,81,59,51,0,GOL,3
+53,Leonardo,Lemos,24,Cruzeiro,2951045,65,99,98,71,84,1,DEFESA,3
+54,Breno,Rodrigues,25,Fluminense,3619604,78,62,69,69,51,0,GOL,2
+55,Leonardo,Santiago,20,Fluminense,4965293,71,99,88,86,89,1,GOL,3
+56,Maurício,Becker,24,Palmeiras,2885426,50,61,80,78,50,1,LIBERO,3
+57,Davi,Santos,28,Volta Redonda,1608249,82,63,94,55,82,1,LIBERO,3
+58,Pedro,Carvalho,24,Corinthians,1686863,72,81,90,72,72,1,GOL,4
+59,Marcelo,Cavalcanti,30,Portuguesa,1909530,84,87,81,69,75,0,ATAQUE,0
+60,Eduardo,Oliveira,31,Flamengo,1695953,80,91,69,54,61,1,LIBERO,3
+61,Pedro,Becker,28,Fortaleza,891039,87,65,69,74,51,1,LIBERO,8
+62,Thiago,Santiago,21,Botafogo,4369063,72,58,69,54,88,0,ATAQUE,1
+63,Thiago,Pereira,29,Grêmio,1606287,96,56,78,86,99,0,LIBERO,2
+64,Matheus,Carvalho,29,São Paulo,3704068,69,58,82,93,51,1,LIBERO,1
+65,Henrique,Oliveira,20,Internacional,4860589,78,67,76,77,54,1,ATAQUE,6
+66,Fernando,Santiago,31,Flamengo,1358716,89,52,87,59,69,0,GOL,2
+67,Marcelo,Santos,23,Vasco,2510446,59,55,85,89,64,0,LIBERO,0
+68,Caue,Cavalcanti,19,Goiás,1707877,85,86,95,74,82,1,ATAQUE,3
+69,Marcelo,Menezes,28,Santos,342087,92,50,83,51,71,1,GOL,7
+70,Carlos,Nascimento,30,Atlético-PR,2104729,86,97,56,71,51,1,MEIO,4
+71,Fernando,Silva,30,Internacional,566566,65,67,56,57,89,1,DEFESA,2
+72,Maurício,Menezes,27,Cruzeiro,4862838,59,54,67,95,73,0,GOL,6
+73,Thiago,Santiago,23,Santos,3629047,50,79,66,65,72,0,MEIO,3
+74,Leonardo,Castro,19,Atlético-PR,741602,77,55,92,86,59,1,ATAQUE,4
+75,Caue,Pereira,29,Chapecoense,1572672,73,73,70,73,88,0,ATAQUE,0
+76,Thiago,Lemos,31,Fortaleza,2787469,99,98,73,77,66,1,LIBERO,7
+77,Breno,Silva,22,Flamengo,517885,75,71,60,50,82,0,GOL,0
+78,Rafael,Lima,18,Botafogo,2028528,53,90,97,55,71,0,ATAQUE,9
+79,Breno,Carvalho,19,Vasco,3531741,80,51,79,57,89,0,LIBERO,1
+80,Maurício,Gomes,24,Santos,3803827,71,88,57,76,55,1,GOL,8
+81,Breno,Pereira,25,Chapecoense,2828674,83,69,66,66,95,1,ATAQUE,6
+82,Matheus,Oliveira,30,Bahia,3224836,98,72,65,71,72,1,GOL,9
+83,Jean,Janeiro,30,São Paulo,2594275,76,73,51,62,69,0,GOL,6
+84,Jean,Janeiro,20,Bahia,2919475,59,58,63,59,80,0,MEIO,2
+85,Peron,Oliveira,27,Volta Redonda,3710246,93,69,73,70,75,0,GOL,4
+86,Pedro,Lima,31,América,2799818,65,56,93,77,58,0,DEFESA,8
+87,Carlos,Castro,20,Atlético-PR,4622780,76,68,77,72,50,0,LIBERO,7
+88,Henrique,Oliveira,32,Vasco,3538732,87,57,50,54,95,1,ATAQUE,5
+89,Eduardo,Castro,26,Volta Redonda,1163432,87,90,63,66,92,0,MEIO,4
+90,Peron,Oliveira,27,Corinthians,1672660,98,96,92,87,94,1,DEFESA,1
+91,Ricardo,Menezes,19,Cruzeiro,1066443,91,82,75,81,90,1,MEIO,4
+92,Leonardo,Carvalho,27,Bahia,2644365,53,77,76,53,70,0,GOL,7
+93,Jean,Rodrigues,21,Corinthians,264658,57,51,51,98,79,1,LIBERO,9
+94,Davi,Gomes,32,Botafogo,2463873,85,84,90,88,66,1,ATAQUE,9
+95,Matheus,Carvalho,19,Goiás,3822521,66,75,81,73,83,0,DEFESA,2
+96,Ricardo,Lima,31,Fortaleza,3301419,87,51,94,72,84,0,LIBERO,3
+97,Fernando,Reis,30,Corinthians,1035559,98,57,80,64,61,0,MEIO,6
+98,João,Janeiro,23,Chapecoense,4364458,94,55,77,83,73,0,GOL,9
+99,Davi,Oliveira,25,Fluminense,1580734,56,64,93,56,75,1,MEIO,9
+100,Jean,Becker,20,Volta Redonda,2289652,98,98,60,94,89,1,DEFESA,2
+101,Jean,Menezes,32,Vitória,2835802,88,80,89,95,84,1,GOL,0
+102,João,Santiago,24,Bahia,2826201,88,66,54,88,64,0,DEFESA,4
+103,Marcelo,Oliveira,21,Palmeiras,3666742,94,99,94,83,85,0,DEFESA,0
+104,Matheus,Reis,20,Flamengo,2493677,83,99,79,73,83,0,GOL,9
+105,Maurício,Menezes,31,Fortaleza,3991890,74,98,82,68,78,1,LIBERO,4
+106,Matheus,Santiago,22,América,2109305,66,79,82,51,63,0,DEFESA,6
+107,Henrique,Neves,24,Atlético-PR,1010289,51,85,81,77,63,0,GOL,4
+108,Caue,Castro,26,Internacional,3510623,94,54,80,62,64,1,ATAQUE,8
+109,Thiago,Becker,32,Goiás,3238345,72,59,85,76,66,1,LIBERO,2
+110,Gustavo,Gomes,29,Cruzeiro,2531687,86,88,60,80,92,0,LIBERO,6
+111,Thiago,Rodrigues,22,Fluminense,4122054,61,72,52,83,89,1,GOL,5
+112,Fernando,Araujo,22,Fluminense,1748685,67,71,72,53,84,1,GOL,6
+113,Thiago,Oliveira,20,Fluminense,3059629,69,83,85,80,87,1,DEFESA,6
+114,Thiago,Santos,27,Fortaleza,2930135,75,60,70,93,94,0,ATAQUE,8
+115,João,Gomes,24,Atlético-PR,687387,90,50,68,59,54,1,GOL,3
+116,Leonardo,Gomes,30,Goiás,871452,58,80,89,83,59,0,DEFESA,3
+117,Leonardo,Becker,21,Cruzeiro,4131073,89,74,62,82,81,1,LIBERO,5
+118,Fernando,Silva,28,Vitória,4295083,52,80,88,62,77,0,LIBERO,9
+119,Henrique,Lemos,32,Botafogo,283655,78,68,80,69,94,1,DEFESA,5
+120,Ricardo,Gomes,20,Flamengo,3254183,93,74,68,97,58,0,ATAQUE,8
+121,Davi,Araujo,25,Goiás,212859,71,94,66,51,96,1,LIBERO,1
+122,Henrique,Lemos,21,Atlético-PR,4601964,81,53,99,76,69,1,GOL,8
+123,Fernando,Lima,29,Botafogo,3793882,95,84,91,68,58,0,MEIO,6
+124,Fernando,Oliveira,32,Grêmio,1104437,68,93,53,51,54,1,ATAQUE,3
+125,Maurício,Neves,26,Santos,4259619,69,89,53,64,94,1,ATAQUE,2
+126,Thiago,Costa,27,Santos,1652852,60,73,91,78,94,1,MEIO,8
+127,Lucas,Cavalcanti,26,Internacional,2675260,77,57,81,96,84,1,MEIO,9
+128,Lucas,Lima,21,América,4726375,94,59,79,55,70,1,GOL,4
+129,Thiago,Araujo,32,Chapecoense,981671,88,94,81,67,65,1,MEIO,1
+130,Davi,Araujo,28,Flamengo,902001,66,87,79,60,58,1,ATAQUE,9
+131,Jean,Janeiro,18,Santos,3289364,62,51,85,52,68,1,DEFESA,5
+132,Maurício,Pereira,25,Internacional,737131,69,95,85,85,64,0,ATAQUE,2
+133,Fernando,Costa,31,Portuguesa,3258058,51,94,74,63,59,1,DEFESA,0
+134,Henrique,Nascimento,28,Portuguesa,1363905,52,85,86,72,71,1,ATAQUE,5
+135,Carlos,Santos,18,Botafogo,736370,63,97,80,66,55,1,MEIO,6
+136,Rafael,Costa,19,São Paulo,3972087,64,55,94,68,81,0,GOL,4
+137,Peron,Neves,30,Atlético-PR,1246745,52,88,67,67,97,0,MEIO,4
+138,Fernando,Araujo,29,Fortaleza,2208014,69,96,51,83,96,0,LIBERO,9
+139,Henrique,Santos,26,Corinthians,3680465,75,62,62,79,81,1,GOL,0
+140,Matheus,Araujo,23,Flamengo,3080748,58,64,64,77,68,1,LIBERO,6
+141,Leonardo,Silva,28,Botafogo,2026334,80,64,51,58,63,1,GOL,6
+142,Rafael,Gomes,24,Grêmio,896297,63,72,98,71,62,1,DEFESA,0
+143,Henrique,Costa,29,Botafogo,3108780,91,50,64,74,65,0,LIBERO,0
+144,Gustavo,Cavalcanti,29,Flamengo,367400,55,83,97,68,95,0,DEFESA,8
+145,Fernando,Santiago,28,Grêmio,3086315,87,98,96,80,62,0,MEIO,8
+146,Davi,Neves,26,São Paulo,4610140,87,72,90,92,90,0,ATAQUE,5
+147,Rafael,Carvalho,28,Palmeiras,2802008,86,64,74,73,72,1,ATAQUE,4
+148,Peron,Silva,22,Flamengo,4467595,75,62,86,62,78,0,MEIO,8
+149,Lucas,Santiago,19,Chapecoense,4602368,53,82,76,89,52,0,ATAQUE,6
+150,Peron,Costa,29,Fortaleza,4866108,77,84,56,52,92,0,GOL,2
+151,João,Nascimento,19,Botafogo,705086,99,74,56,52,83,0,MEIO,7
+152,Lucas,Gomes,32,Santos,3922599,77,66,60,54,66,1,MEIO,0
+153,Fernando,Nascimento,30,Portuguesa,4003819,75,97,57,74,64,1,DEFESA,9
+154,Ricardo,Nascimento,29,América,1610462,52,70,61,79,73,0,DEFESA,1
+155,Jean,Pereira,24,Vasco,4746485,84,68,56,59,63,0,GOL,9
+156,Thiago,Rodrigues,21,Vitória,4875963,67,81,75,69,88,1,MEIO,4
+157,Fernando,Lima,23,Vasco,78481,57,98,66,93,72,0,DEFESA,7
+158,Marcelo,Santiago,30,Bahia,3321051,97,55,64,66,91,0,GOL,9
+159,Breno,Oliveira,26,Vitória,2437420,99,54,53,58,71,1,DEFESA,5
+160,Fernando,Reis,30,Corinthians,1038737,51,59,88,51,52,1,MEIO,3
+161,Leonardo,Oliveira,27,Fluminense,2772081,68,72,53,69,56,1,LIBERO,7
+162,Lucas,Becker,25,Volta Redonda,926312,56,85,99,60,87,1,GOL,1
+163,Pedro,Araujo,32,Santos,4718058,59,90,91,79,94,0,LIBERO,0
+164,Carlos,Silva,22,Atlético-PR,5025175,51,98,87,60,87,0,DEFESA,6
+165,Ricardo,Santos,21,Volta Redonda,4207655,54,61,65,65,57,0,GOL,3
+166,Rafael,Menezes,22,Volta Redonda,4661179,83,88,54,87,91,1,ATAQUE,0
+167,Gustavo,Castro,20,Goiás,3513097,75,75,54,81,71,1,LIBERO,0
+168,Matheus,Menezes,32,Portuguesa,3549612,88,67,91,73,95,0,MEIO,9
+169,Gustavo,Rodrigues,27,São Paulo,1068028,76,90,75,53,81,1,GOL,4
+170,Pedro,Menezes,18,Volta Redonda,158852,69,67,64,59,58,0,GOL,3
+171,Leonardo,Oliveira,30,Portuguesa,3829316,62,95,94,90,71,0,GOL,2
+172,Jean,Becker,21,América,4241408,93,94,62,64,77,1,DEFESA,7
+173,Peron,Reis,28,Grêmio,3088742,85,71,58,99,54,1,DEFESA,5
+174,Thiago,Gomes,22,Flamengo,2225426,87,87,84,83,97,1,LIBERO,6
+175,Fernando,Santiago,21,Volta Redonda,4871045,55,98,87,90,97,1,GOL,3
+176,Jean,Menezes,26,Flamengo,2546109,59,91,85,98,72,1,MEIO,1
+177,Gustavo,Costa,32,Vasco,4057855,64,97,50,69,89,0,ATAQUE,8
+178,Matheus,Costa,29,Goiás,1653006,71,59,68,80,53,1,GOL,7
+179,Peron,Neves,21,Botafogo,990751,97,55,57,61,59,1,LIBERO,9
+180,Thiago,Reis,30,São Paulo,2475378,81,91,85,52,55,1,GOL,0
+181,Maurício,Rodrigues,31,Vasco,686075,88,76,79,86,88,1,LIBERO,7
+182,João,Pereira,26,Atlético-PR,4412003,88,84,82,69,69,1,MEIO,4
+183,Davi,Nascimento,27,Vitória,4447711,74,53,89,63,68,1,LIBERO,8
+184,Peron,Janeiro,28,Volta Redonda,4350636,56,70,89,96,73,1,ATAQUE,4
+185,Lucas,Silva,23,Bahia,2420939,57,73,53,81,92,0,LIBERO,2
+186,Leonardo,Menezes,28,São Paulo,2144676,77,89,62,83,54,1,GOL,9
+187,Rafael,Lemos,22,Chapecoense,3476966,94,88,57,53,60,1,MEIO,2
+188,Jean,Lemos,27,Atlético-PR,4159379,84,83,56,62,70,1,MEIO,4
+189,Breno,Cavalcanti,27,América,433163,80,66,79,76,86,0,GOL,7
+190,Leonardo,Becker,29,Portuguesa,1108667,66,83,99,52,57,0,MEIO,7
+191,Maurício,Becker,32,Internacional,1156439,60,72,52,90,81,0,GOL,0
+192,Rafael,Pereira,30,Palmeiras,2888779,70,64,99,86,98,1,DEFESA,7
+193,Thiago,Silva,27,Cruzeiro,2725842,90,68,84,50,86,0,LIBERO,0
+194,Leonardo,Nascimento,23,Internacional,2114797,59,69,78,79,79,0,LIBERO,9
+195,Gustavo,Janeiro,19,Flamengo,2260763,73,96,57,63,91,0,LIBERO,8
+196,Rafael,Lemos,28,Internacional,4659625,90,71,72,51,52,0,LIBERO,2
+197,Pedro,Neves,19,Palmeiras,4700666,98,84,79,73,86,0,ATAQUE,8
+198,Pedro,Reis,21,Grêmio,1490251,58,78,78,50,50,1,ATAQUE,5
+199,Ricardo,Rodrigues,32,Vasco,1491788,50,53,54,50,85,1,DEFESA,1
+200,Pedro,Silva,29,Goiás,2196430,61,79,83,69,62,1,LIBERO,4
+201,João,Neves,19,Flamengo,3382227,60,50,65,63,69,1,MEIO,4
+202,Breno,Costa,26,Palmeiras,2588140,81,71,72,93,58,0,LIBERO,0
+203,Rafael,Silva,19,Portuguesa,3244375,58,72,53,70,70,1,GOL,0
+204,Carlos,Carvalho,24,Flamengo,1276049,76,95,90,58,64,1,LIBERO,2
+205,Fernando,Janeiro,22,Palmeiras,3595551,83,64,76,93,81,1,ATAQUE,2
+206,Leonardo,Pereira,22,Corinthians,1035774,92,88,73,69,65,1,DEFESA,2
+207,Pedro,Santos,22,América,1305251,51,51,54,84,81,1,GOL,2
+208,Lucas,Janeiro,27,Bahia,4845515,60,87,89,53,65,0,MEIO,2
+209,Gustavo,Araujo,22,Palmeiras,2773135,69,82,88,72,93,0,LIBERO,6
+210,Fernando,Silva,31,Botafogo,3900330,55,67,98,65,89,0,LIBERO,4
+211,Pedro,Menezes,20,Palmeiras,4797960,51,78,97,72,88,0,ATAQUE,1
+212,Peron,Lemos,25,Volta Redonda,2457165,97,65,97,54,95,0,ATAQUE,5
+213,Marcelo,Oliveira,32,Cruzeiro,2979271,78,78,83,82,83,0,MEIO,1
+214,Gustavo,Becker,22,Cruzeiro,2523075,61,91,92,60,90,1,GOL,5
+215,Leonardo,Reis,18,Chapecoense,3550155,62,64,78,90,61,0,LIBERO,6
+216,Caue,Castro,30,Santos,3500998,73,85,76,86,68,1,DEFESA,8
+217,Peron,Menezes,27,Grêmio,2136557,66,80,62,78,90,1,GOL,3
+218,Thiago,Araujo,28,Vasco,3237822,69,60,72,93,50,1,DEFESA,9
+219,Eduardo,Neves,32,São Paulo,1349989,75,93,96,92,60,0,DEFESA,0
+220,Ricardo,Neves,19,Palmeiras,2938509,58,71,81,77,55,0,MEIO,6
+221,Maurício,Costa,25,Santos,1581123,56,77,65,84,63,0,DEFESA,4
+222,Lucas,Nascimento,19,Corinthians,4995482,84,91,91,92,74,0,ATAQUE,0
+223,Henrique,Silva,26,Portuguesa,4517641,65,85,64,73,81,1,LIBERO,5
+224,Thiago,Neves,29,Corinthians,2202402,99,86,87,84,80,0,ATAQUE,7
+225,Marcelo,Rodrigues,27,América,1510472,77,97,63,94,80,1,DEFESA,3
+226,Breno,Neves,21,Goiás,3454766,81,56,70,81,59,1,ATAQUE,0
+227,Matheus,Nascimento,22,Fluminense,2407411,88,93,85,67,51,1,MEIO,3
+228,Lucas,Pereira,24,Grêmio,2785208,57,80,76,88,97,1,ATAQUE,6
+229,Davi,Reis,21,Fortaleza,1150477,97,80,90,85,76,0,MEIO,9
+230,Ricardo,Oliveira,30,Corinthians,438322,58,59,80,65,57,0,ATAQUE,6
+231,Thiago,Santos,30,Corinthians,1975371,61,52,99,60,89,0,MEIO,7
+232,Lucas,Araujo,24,Goiás,4076571,58,66,93,69,75,0,MEIO,2
+233,Pedro,Santiago,26,São Paulo,3332708,53,90,79,66,80,0,DEFESA,2
+234,Pedro,Pereira,24,Internacional,334859,88,93,82,98,75,1,DEFESA,1
+235,Henrique,Pereira,28,Portuguesa,4810852,76,72,60,79,92,1,LIBERO,4
+236,Caue,Rodrigues,24,Fluminense,266317,88,73,79,78,61,0,MEIO,7
+237,Eduardo,Neves,23,Fluminense,4870469,75,56,73,51,84,0,DEFESA,8
+238,Thiago,Costa,25,Atlético-PR,3124632,51,97,50,91,81,1,ATAQUE,2
+239,Thiago,Pereira,24,Volta Redonda,979980,71,53,51,99,75,0,DEFESA,1
+240,Fernando,Oliveira,27,Fortaleza,704484,93,65,67,94,69,1,LIBERO,0
+241,Henrique,Oliveira,22,Goiás,2512489,76,55,70,99,71,0,DEFESA,8
+242,Gustavo,Araujo,32,Vasco,4802798,50,52,83,94,52,0,MEIO,1
+243,Davi,Carvalho,31,Goiás,1822393,67,92,85,93,57,1,LIBERO,0
+244,Matheus,Rodrigues,27,Goiás,1565846,88,84,96,89,81,1,LIBERO,3
+245,Ricardo,Lemos,24,Internacional,1031014,81,92,58,99,95,0,DEFESA,2
+246,Breno,Cavalcanti,30,Botafogo,3823481,61,83,79,50,78,1,LIBERO,9
+247,Henrique,Silva,28,Palmeiras,3353313,53,59,78,85,88,0,DEFESA,3
+248,Pedro,Janeiro,18,Fortaleza,3894027,67,59,61,79,92,1,LIBERO,0
+249,Peron,Neves,23,Flamengo,3467795,75,53,59,80,87,1,MEIO,5
+250,Caue,Carvalho,18,Vitória,802439,95,60,68,62,79,1,ATAQUE,4
+251,Rafael,Silva,27,Vasco,123103,74,98,51,51,60,0,DEFESA,9
+252,Breno,Araujo,32,Cruzeiro,2989243,84,89,84,81,52,1,GOL,4
+253,Breno,Pereira,26,Internacional,3235665,52,66,71,79,72,0,GOL,2
+254,Henrique,Nascimento,29,Vasco,711725,57,71,70,93,54,0,DEFESA,6
+255,Breno,Gomes,20,Vasco,1409216,50,76,82,55,53,0,MEIO,7
+256,Davi,Lima,32,Volta Redonda,866074,90,55,51,99,71,0,GOL,5
+257,Rafael,Gomes,21,Internacional,3839834,76,96,52,76,86,1,GOL,1
+258,Thiago,Rodrigues,21,Corinthians,1531467,77,75,93,69,94,0,GOL,5
+259,Lucas,Janeiro,20,Fluminense,2012953,76,64,87,54,89,0,DEFESA,8
+260,Rafael,Castro,32,Botafogo,1110440,88,73,58,65,53,1,MEIO,0
+261,Ricardo,Rodrigues,20,Corinthians,1565842,60,94,95,88,84,0,MEIO,6
+262,Rafael,Costa,32,Santos,4696816,73,78,57,63,67,1,LIBERO,2
+263,Davi,Castro,20,Palmeiras,4208981,90,91,75,52,73,0,ATAQUE,7
+264,Maurício,Neves,23,Flamengo,3722131,91,55,50,67,57,0,ATAQUE,4
+265,Caue,Oliveira,24,Chapecoense,293933,71,55,64,61,89,1,DEFESA,2
+266,Leonardo,Santiago,20,Palmeiras,845762,59,53,93,51,95,0,GOL,2
+267,Lucas,Araujo,21,Santos,919778,75,93,61,98,77,1,MEIO,7
+268,Henrique,Pereira,19,Cruzeiro,4226724,55,76,86,65,82,0,LIBERO,7
+269,Rafael,Nascimento,18,Fluminense,4047073,60,50,54,87,65,1,LIBERO,3
+270,Henrique,Lemos,25,Santos,4959931,95,57,55,51,94,0,MEIO,6
+271,Rafael,Santos,23,Fortaleza,3443800,87,62,76,98,80,1,LIBERO,7
+272,Gustavo,Lima,30,Volta Redonda,2275449,54,92,82,50,89,1,GOL,3
+273,Gustavo,Araujo,19,Chapecoense,3987167,67,83,67,54,95,0,GOL,7
+274,Davi,Santos,28,Grêmio,1213429,69,78,80,74,62,0,MEIO,1
+275,Caue,Cavalcanti,23,Fortaleza,1997311,96,63,78,65,97,0,GOL,5
+276,Pedro,Reis,20,São Paulo,410079,99,73,58,69,88,1,DEFESA,2
+277,Gustavo,Reis,32,Fortaleza,4439455,91,58,68,87,98,1,LIBERO,8
+278,Fernando,Oliveira,31,América,324822,67,62,54,69,64,0,LIBERO,5
+279,Matheus,Menezes,25,Goiás,1381916,61,60,74,52,92,0,DEFESA,3
+280,Leonardo,Rodrigues,29,São Paulo,1531928,86,71,51,55,57,0,DEFESA,1
+281,Pedro,Rodrigues,24,Volta Redonda,1862430,86,55,97,99,71,0,MEIO,5
+282,Rafael,Costa,21,Internacional,4054240,51,67,71,89,72,1,DEFESA,1
+283,Gustavo,Nascimento,27,Goiás,1862111,83,85,92,69,91,0,ATAQUE,2
+284,Pedro,Menezes,32,Flamengo,2614626,90,65,69,91,90,1,GOL,4
+285,Lucas,Lemos,18,Cruzeiro,1703452,99,89,63,82,57,1,ATAQUE,0
+286,Pedro,Reis,32,Goiás,4943524,94,67,53,84,72,1,MEIO,4
+287,Peron,Oliveira,31,Fortaleza,2524497,73,98,51,74,66,1,DEFESA,4
+288,Peron,Oliveira,19,Fluminense,853015,91,83,91,85,94,1,LIBERO,8
+289,Eduardo,Santos,20,Atlético-PR,4146497,60,55,96,85,97,0,GOL,4
+290,Caue,Neves,18,Internacional,4144500,66,72,65,57,56,0,MEIO,1
+291,Fernando,Lemos,22,Goiás,4818947,54,79,94,64,91,0,MEIO,0
+292,Peron,Carvalho,22,Internacional,2157052,94,70,52,63,67,0,LIBERO,6
+293,Breno,Reis,27,Vitória,3866752,98,52,99,54,95,1,GOL,6
+294,Gustavo,Rodrigues,25,Botafogo,2268353,83,70,55,80,60,1,GOL,9
+295,Thiago,Oliveira,28,Goiás,285243,84,73,97,85,96,1,LIBERO,1
+296,Lucas,Gomes,28,Grêmio,597843,59,66,98,94,55,0,LIBERO,5
+297,Carlos,Oliveira,18,Chapecoense,3530000,52,75,95,87,92,0,ATAQUE,0
+298,Jean,Nascimento,20,Vitória,3222870,64,55,65,75,63,1,MEIO,8
+299,João,Lemos,32,Internacional,2296557,81,54,60,83,55,0,MEIO,8
+300,Henrique,Rodrigues,31,Portuguesa,4012051,72,84,71,88,86,1,MEIO,9
+301,Matheus,Janeiro,18,Chapecoense,3401275,56,96,85,87,95,0,GOL,0
+302,Fernando,Nascimento,31,Grêmio,3614032,89,53,83,61,55,0,DEFESA,3
+303,Ricardo,Costa,23,Vasco,3745430,65,79,56,71,91,0,DEFESA,6
+304,Pedro,Castro,19,Chapecoense,3028887,87,73,69,76,55,1,ATAQUE,2
+305,Carlos,Nascimento,28,Internacional,3741299,50,55,80,65,88,0,GOL,9
+306,Davi,Castro,30,Palmeiras,2512464,53,64,51,92,73,0,ATAQUE,8
+307,Eduardo,Castro,18,Volta Redonda,64087,97,54,86,98,66,1,LIBERO,4
+308,João,Oliveira,23,Fortaleza,4560912,52,87,76,58,77,0,ATAQUE,2
+309,Gustavo,Santos,28,Chapecoense,4940697,72,78,84,70,73,0,MEIO,9
+310,Ricardo,Costa,29,Chapecoense,1882764,83,96,76,88,52,0,MEIO,1
+311,Marcelo,Gomes,27,Atlético-PR,1023744,66,52,94,89,80,1,ATAQUE,3
+312,Breno,Santiago,28,Goiás,1003715,93,58,79,76,55,0,MEIO,9
+313,Peron,Cavalcanti,25,Palmeiras,551760,78,86,54,95,98,0,LIBERO,9
+314,Leonardo,Rodrigues,27,Vasco,3999359,79,94,74,72,55,1,DEFESA,0
+315,Leonardo,Menezes,29,Portuguesa,2651423,63,95,85,94,89,1,LIBERO,0
+316,Leonardo,Costa,22,Fluminense,1839740,53,54,51,85,77,1,ATAQUE,2
+317,Eduardo,Gomes,32,Goiás,2021609,65,58,82,81,69,1,GOL,9
+318,Eduardo,Lima,22,América,3434615,70,73,56,75,59,0,LIBERO,7
+319,Davi,Oliveira,24,Vasco,2347948,66,56,57,81,92,0,ATAQUE,1
+320,Caue,Araujo,23,Bahia,4629381,71,56,96,91,54,1,GOL,4
+321,Breno,Becker,31,Bahia,275678,74,80,76,90,84,0,GOL,8
+322,Lucas,Janeiro,22,Santos,4655544,62,93,75,85,74,1,DEFESA,8
+323,Eduardo,Araujo,27,América,2866836,97,77,66,74,93,0,MEIO,9
+324,Peron,Becker,25,Cruzeiro,3643233,98,67,79,62,57,0,GOL,1
+325,Thiago,Oliveira,24,Volta Redonda,3542590,56,54,78,53,94,1,LIBERO,9
+326,Henrique,Becker,21,Corinthians,4209396,77,71,81,76,61,0,LIBERO,0
+327,Eduardo,Santos,19,Volta Redonda,1481457,62,96,99,70,77,0,DEFESA,4
+328,Matheus,Neves,31,Atlético-PR,379125,82,90,71,59,53,1,MEIO,6
+329,Marcelo,Lemos,24,Flamengo,421466,89,88,76,51,75,0,LIBERO,5
+330,Davi,Castro,22,Palmeiras,2731259,92,55,86,74,57,0,GOL,2
+331,Ricardo,Rodrigues,31,Botafogo,4205817,64,76,86,53,62,1,MEIO,9
+332,Gustavo,Rodrigues,32,Grêmio,3256420,73,84,81,68,69,0,ATAQUE,6
+333,Pedro,Nascimento,24,Portuguesa,3185563,69,67,83,86,71,1,DEFESA,3
+334,Marcelo,Menezes,32,Palmeiras,186310,71,64,82,94,63,0,LIBERO,2
+335,Breno,Lima,18,Atlético-PR,1726034,53,51,99,73,84,1,LIBERO,5
+336,Maurício,Costa,23,Botafogo,1967846,65,88,56,86,88,0,DEFESA,3
+337,Leonardo,Becker,20,Vasco,2879237,99,51,73,53,75,0,LIBERO,9
+338,Gustavo,Janeiro,30,Internacional,1563770,57,52,66,74,74,0,ATAQUE,4
+339,Fernando,Castro,20,Vitória,252658,56,52,96,58,71,1,GOL,6
+340,Caue,Castro,21,Santos,4621127,75,77,99,82,66,1,ATAQUE,0
+341,Gustavo,Neves,25,Fluminense,4230179,74,62,89,83,87,1,MEIO,9
+342,João,Becker,20,Internacional,4797519,65,77,98,90,97,1,ATAQUE,5
+343,Maurício,Gomes,31,Internacional,1503786,65,74,65,91,57,0,GOL,4
+344,Leonardo,Cavalcanti,28,Grêmio,586611,63,66,82,78,80,1,MEIO,0
+345,Henrique,Silva,28,Portuguesa,3437104,55,87,90,70,58,0,MEIO,5
+346,Davi,Cavalcanti,22,Fluminense,596286,67,77,99,80,82,0,DEFESA,2
+347,Breno,Pereira,27,Botafogo,3887738,90,57,92,97,84,0,GOL,2
+348,Peron,Becker,25,Santos,2323271,69,78,59,88,59,0,LIBERO,1
+349,Davi,Cavalcanti,28,Vasco,2064495,50,85,83,92,75,1,GOL,1
+350,Carlos,Rodrigues,32,Atlético-PR,1910715,63,66,88,84,98,0,LIBERO,7
+351,Pedro,Janeiro,18,Atlético-PR,968408,55,79,53,55,88,1,LIBERO,5
+352,Breno,Gomes,24,Flamengo,2207304,80,94,71,96,59,0,DEFESA,7
+353,Ricardo,Gomes,19,Volta Redonda,1972721,66,68,81,72,86,1,DEFESA,4
+354,Gustavo,Pereira,32,São Paulo,3805029,66,72,85,98,56,0,DEFESA,7
+355,Thiago,Lemos,30,São Paulo,3427296,93,79,67,60,51,0,LIBERO,7
+356,Ricardo,Lima,30,Goiás,3674193,53,68,72,69,57,0,LIBERO,5
+357,Peron,Reis,25,Chapecoense,2889123,59,73,69,55,88,1,ATAQUE,9
+358,Caue,Araujo,32,Vasco,2221670,93,67,63,96,87,0,GOL,6
+359,Rafael,Janeiro,19,Portuguesa,153980,95,92,53,57,74,0,GOL,4
+360,Carlos,Pereira,19,São Paulo,927480,85,50,50,78,65,0,MEIO,2
+361,Pedro,Santiago,18,Flamengo,120329,63,81,59,58,64,1,GOL,0
+362,Breno,Santos,28,Flamengo,1734886,61,92,66,98,68,0,LIBERO,3
+363,Maurício,Gomes,25,Volta Redonda,4775759,87,79,88,50,50,1,GOL,6
+364,Eduardo,Menezes,30,Corinthians,169687,62,68,73,75,92,1,ATAQUE,2
+365,Gustavo,Rodrigues,19,Internacional,4118944,83,54,55,73,95,1,LIBERO,7
+366,João,Silva,27,Internacional,530906,71,73,95,83,70,0,DEFESA,4
+367,Jean,Castro,30,Vitória,2862389,75,89,85,58,92,1,GOL,9
+368,Carlos,Araujo,30,Palmeiras,1260406,51,58,64,74,61,1,LIBERO,2
+369,Breno,Santiago,19,São Paulo,3508004,75,86,95,50,82,1,ATAQUE,6
+370,Maurício,Neves,18,Cruzeiro,2011330,52,99,88,55,53,1,GOL,4
+371,Eduardo,Araujo,21,América,325461,97,59,65,72,62,1,GOL,4
+372,Maurício,Janeiro,18,Flamengo,2088154,86,84,84,90,72,0,LIBERO,7
+373,Thiago,Nascimento,22,Vasco,3570113,94,75,77,91,94,0,DEFESA,7
+374,Carlos,Neves,29,Botafogo,2202114,74,55,68,62,54,0,DEFESA,8
+375,Marcelo,Santos,21,Portuguesa,4146412,54,98,76,98,53,0,MEIO,9
+376,Eduardo,Santos,19,Volta Redonda,738164,60,74,78,84,98,0,DEFESA,4
+377,Lucas,Carvalho,18,Palmeiras,800570,95,85,83,99,61,1,ATAQUE,6
+378,Carlos,Neves,28,Bahia,4323924,72,96,90,82,71,0,LIBERO,1
+379,Rafael,Lima,26,Vasco,2861976,63,73,97,60,82,1,DEFESA,3
+380,Eduardo,Becker,24,Portuguesa,3986725,76,99,51,50,93,0,GOL,4
+381,Maurício,Araujo,29,Flamengo,1401201,64,91,78,79,77,1,ATAQUE,1
+382,Lucas,Menezes,19,Vasco,1788268,67,60,95,95,96,0,GOL,0
+383,Peron,Rodrigues,24,América,1724407,94,59,60,60,90,1,GOL,7
+384,Marcelo,Janeiro,31,Portuguesa,3812356,86,91,77,53,72,1,ATAQUE,1
+385,Thiago,Neves,21,Atlético-PR,3349856,69,68,65,64,77,0,GOL,8
+386,Rafael,Santiago,25,Corinthians,3283437,68,81,94,54,73,0,GOL,5
+387,Carlos,Nascimento,19,Vasco,609714,81,89,72,51,87,1,GOL,7
+388,Jean,Becker,18,Chapecoense,1435770,72,58,57,92,53,1,ATAQUE,6
+389,Leonardo,Costa,30,Corinthians,3764579,90,76,96,72,68,1,LIBERO,8
+390,Pedro,Carvalho,28,América,4514344,62,97,64,86,71,1,ATAQUE,7
+391,Davi,Lemos,26,Botafogo,3128153,77,53,85,70,81,0,ATAQUE,1
+392,Carlos,Reis,29,Cruzeiro,4186199,88,50,93,50,59,1,ATAQUE,1
+393,Davi,Costa,28,Goiás,3259521,65,81,75,93,62,1,MEIO,3
+394,Carlos,Santiago,29,Portuguesa,2030597,58,93,99,96,94,1,MEIO,4
+395,Henrique,Pereira,20,Fortaleza,488714,97,52,87,62,64,1,DEFESA,6
+396,João,Silva,24,Palmeiras,3409659,68,63,57,76,58,0,LIBERO,2
+397,Matheus,Gomes,31,Atlético-PR,3461108,95,67,74,94,62,1,LIBERO,8
+398,Henrique,Santiago,23,Cruzeiro,821967,76,76,79,96,86,0,GOL,6
+399,Gustavo,Menezes,21,Fortaleza,4649709,59,88,68,54,92,1,MEIO,6
+400,Lucas,Neves,23,Corinthians,198511,92,71,80,70,59,1,MEIO,5
+401,Matheus,Araujo,31,Fortaleza,2932901,94,71,62,53,80,1,DEFESA,5
+402,Eduardo,Neves,24,Portuguesa,799427,68,99,88,60,70,1,GOL,0
+403,Marcelo,Araujo,25,Cruzeiro,5041509,71,88,62,65,74,0,GOL,7
+404,Thiago,Castro,25,Vasco,332780,65,58,59,84,99,0,GOL,9
+405,Thiago,Becker,32,Bahia,377369,77,73,80,98,92,1,MEIO,8
+406,Jean,Oliveira,20,Santos,3891480,61,50,62,77,71,1,GOL,0
+407,Leonardo,Becker,25,Volta Redonda,349757,91,66,76,70,58,0,LIBERO,0
+408,Ricardo,Reis,28,Flamengo,3571922,50,83,53,61,65,0,DEFESA,9
+409,Caue,Carvalho,19,Grêmio,2241271,53,50,80,97,58,1,ATAQUE,6
+410,Eduardo,Oliveira,26,Cruzeiro,342243,91,94,67,91,70,0,LIBERO,8
+411,Gustavo,Lemos,32,Fortaleza,3998582,90,55,55,96,86,1,LIBERO,4
+412,Pedro,Araujo,26,Flamengo,3336698,81,76,93,72,61,1,DEFESA,1
+413,Henrique,Cavalcanti,29,Bahia,1553030,52,53,62,93,70,1,ATAQUE,6
+414,João,Araujo,25,Fluminense,2447428,67,99,77,99,70,1,LIBERO,3
+415,Thiago,Rodrigues,25,Internacional,3675869,88,64,50,91,64,0,MEIO,6
+416,Thiago,Neves,20,Palmeiras,4475597,97,59,76,64,55,1,GOL,7
+417,Leonardo,Menezes,24,Goiás,1776338,78,81,60,68,60,1,DEFESA,6
+418,Leonardo,Santos,21,Goiás,1730104,57,89,51,56,79,1,DEFESA,4
+419,Eduardo,Nascimento,27,América,181185,75,53,76,55,86,1,ATAQUE,8
+420,Fernando,Becker,22,Vitória,4050203,89,63,57,99,60,1,ATAQUE,0
+421,Lucas,Pereira,19,Chapecoense,4516916,90,96,51,67,77,0,ATAQUE,5
+422,Eduardo,Becker,26,Internacional,3169376,90,69,79,81,88,0,MEIO,0
+423,Davi,Becker,30,Corinthians,1321359,69,89,75,61,77,1,GOL,6
+424,Matheus,Silva,25,Grêmio,1004954,87,86,80,77,59,1,MEIO,9
+425,Carlos,Carvalho,28,Chapecoense,3277572,92,50,81,63,57,1,MEIO,6
+426,Henrique,Carvalho,27,Atlético-PR,2108650,68,65,54,56,87,1,DEFESA,8
+427,João,Araujo,31,Goiás,1083335,50,65,57,94,91,0,MEIO,0
+428,Ricardo,Oliveira,26,Palmeiras,2221006,84,56,56,53,62,1,ATAQUE,9
+429,Rafael,Castro,21,Palmeiras,1192342,98,79,78,50,87,0,DEFESA,8
+430,Maurício,Lemos,23,Grêmio,2699809,68,86,65,53,73,0,LIBERO,6
+431,Caue,Nascimento,30,Volta Redonda,2279076,87,62,68,85,98,1,MEIO,6
+432,Pedro,Costa,24,Corinthians,2867181,99,80,92,69,58,0,DEFESA,1
+433,Pedro,Costa,32,Cruzeiro,4072267,57,73,95,96,66,0,DEFESA,4
+434,Breno,Lemos,30,Palmeiras,605133,71,92,66,70,58,1,LIBERO,8
+435,João,Menezes,30,Vasco,4240834,71,54,53,80,51,1,DEFESA,7
+436,Caue,Carvalho,21,Santos,1975874,88,88,57,59,73,1,ATAQUE,2
+437,Marcelo,Becker,23,Fluminense,1463360,52,85,96,76,50,0,GOL,3
+438,Thiago,Reis,23,Portuguesa,936288,55,83,62,95,70,0,GOL,5
+439,Leonardo,Pereira,30,Flamengo,3545367,80,96,78,84,74,0,LIBERO,6
+440,Gustavo,Castro,32,Corinthians,3928135,51,59,73,59,85,0,LIBERO,7
+441,Gustavo,Oliveira,26,Vasco,2011641,82,58,58,62,88,1,GOL,5
+442,Breno,Cavalcanti,29,São Paulo,433413,73,91,98,76,71,1,ATAQUE,9
+443,Pedro,Cavalcanti,29,Palmeiras,2340293,71,53,84,54,94,0,DEFESA,3
+444,Ricardo,Santos,23,Volta Redonda,2776930,91,59,94,66,94,1,DEFESA,8
+445,Marcelo,Castro,30,Santos,219173,95,77,68,67,54,1,GOL,1
+446,Carlos,Menezes,27,América,511979,84,84,60,77,54,0,ATAQUE,8
+447,Gustavo,Menezes,29,Atlético-PR,713963,95,96,86,91,57,0,LIBERO,3
+448,Matheus,Carvalho,32,Vitória,2857967,50,81,97,84,57,0,ATAQUE,3
+449,Peron,Gomes,21,Cruzeiro,885417,80,74,80,77,69,0,DEFESA,8
+450,Marcelo,Silva,24,Botafogo,3353002,56,90,69,56,68,1,DEFESA,5
+451,Carlos,Oliveira,18,Atlético-PR,3638215,54,74,84,86,67,1,DEFESA,8
+452,Maurício,Carvalho,24,Goiás,775269,59,84,73,67,95,0,MEIO,3
+453,Breno,Janeiro,19,Corinthians,2451594,81,99,59,85,96,1,GOL,5
+454,Fernando,Costa,31,Atlético-PR,3328317,71,89,89,80,62,0,LIBERO,9
+455,Maurício,Nascimento,26,Internacional,4092089,66,73,84,97,95,1,LIBERO,1
+456,Henrique,Castro,29,Cruzeiro,1582177,61,66,94,82,85,1,LIBERO,8
+457,Ricardo,Carvalho,32,Grêmio,237928,82,86,67,98,53,0,GOL,9
+458,Jean,Menezes,18,Grêmio,2181214,99,87,91,60,86,1,DEFESA,1
+459,Pedro,Santos,24,Bahia,4104822,81,70,52,65,71,0,LIBERO,5
+460,Henrique,Menezes,22,Bahia,4514144,66,92,58,65,50,0,GOL,8
+461,Matheus,Castro,24,Volta Redonda,3613389,85,66,61,68,63,1,DEFESA,5
+462,Gustavo,Santiago,25,Volta Redonda,85025,86,68,69,52,77,0,MEIO,9
+463,Henrique,Nascimento,22,Atlético-PR,1340376,81,58,65,68,77,0,LIBERO,2
+464,Caue,Rodrigues,27,Cruzeiro,3076479,91,92,54,79,73,0,LIBERO,2
+465,Peron,Costa,27,Flamengo,4948548,53,73,74,86,91,0,MEIO,0
+466,Pedro,Neves,26,Vitória,2148235,94,87,64,86,70,1,MEIO,5
+467,Breno,Castro,30,Grêmio,4787685,81,53,85,87,61,1,MEIO,2
+468,Marcelo,Castro,21,Santos,4094191,86,86,76,82,92,0,GOL,2
+469,Rafael,Carvalho,30,América,3951366,57,89,53,90,90,1,LIBERO,1
+470,Jean,Reis,21,Palmeiras,2977147,76,55,88,64,67,1,LIBERO,9
+471,Leonardo,Menezes,27,Palmeiras,2101676,83,93,94,92,97,1,DEFESA,9
+472,Peron,Cavalcanti,28,Volta Redonda,1555128,93,52,77,70,67,0,LIBERO,4
+473,Jean,Lemos,29,Atlético-PR,5012652,70,56,78,55,72,0,ATAQUE,1
+474,Jean,Rodrigues,28,Volta Redonda,4191709,50,65,89,95,66,1,LIBERO,4
+475,Maurício,Lemos,31,América,2717059,66,90,61,86,91,0,ATAQUE,5
+476,Pedro,Rodrigues,26,América,3528296,98,76,55,50,95,1,ATAQUE,3
+477,Matheus,Becker,30,Volta Redonda,3744228,68,56,87,84,50,1,DEFESA,3
+478,Leonardo,Araujo,26,Atlético-PR,4543378,96,90,74,96,82,0,ATAQUE,9
+479,Fernando,Lemos,25,Flamengo,239615,92,79,93,60,82,0,GOL,4
+480,Carlos,Lemos,25,Goiás,2051879,87,99,60,85,84,1,DEFESA,8
+481,Caue,Menezes,32,Bahia,1708439,92,91,54,84,50,0,LIBERO,2
+482,Peron,Menezes,20,Santos,1590579,96,50,58,84,68,1,LIBERO,5
+483,Ricardo,Pereira,23,Vasco,3046463,75,67,52,67,57,1,MEIO,9
+484,Gustavo,Lemos,29,Cruzeiro,96339,60,57,70,57,78,1,ATAQUE,9
+485,João,Nascimento,27,Atlético-PR,754097,81,60,60,56,63,1,GOL,2
+486,Davi,Araujo,24,Grêmio,461167,74,75,58,85,78,0,MEIO,9
+487,Thiago,Rodrigues,21,Palmeiras,1184552,64,77,51,95,61,0,ATAQUE,6
+488,Thiago,Santos,28,Corinthians,2469335,81,89,55,58,63,1,DEFESA,4
+489,Carlos,Neves,26,Vasco,4370696,61,81,50,77,51,0,LIBERO,4
+490,Henrique,Silva,24,Fortaleza,2516281,91,64,68,75,73,1,MEIO,9
+491,Eduardo,Neves,18,Volta Redonda,3830618,88,95,64,51,66,0,LIBERO,7
+492,Peron,Reis,32,Bahia,3212958,75,85,91,68,60,1,LIBERO,5
+493,Henrique,Costa,29,Vitória,4666051,61,73,70,51,86,0,MEIO,3
+494,Peron,Castro,30,Botafogo,3302526,56,66,87,83,78,0,MEIO,0
+495,Leonardo,Reis,21,Fluminense,4195187,56,82,88,68,60,1,LIBERO,7
+496,Rafael,Lemos,25,Vasco,263761,76,95,88,85,77,0,LIBERO,7
+497,Pedro,Costa,31,Santos,562927,78,98,66,84,56,0,DEFESA,7
+498,Henrique,Lemos,29,São Paulo,4382886,70,62,98,96,86,1,DEFESA,5
+499,Peron,Reis,25,Fluminense,3783958,72,98,87,50,53,1,LIBERO,0
+500,Caue,Pereira,22,América,1601378,97,71,65,67,63,1,LIBERO,1
+501,Breno,Santiago,31,Cruzeiro,686457,90,79,66,63,53,1,ATAQUE,9
+502,Peron,Cavalcanti,19,Fortaleza,3337475,50,63,53,99,70,0,DEFESA,5
+503,Matheus,Cavalcanti,31,Fortaleza,3243236,56,87,94,97,62,0,LIBERO,5
+504,Thiago,Carvalho,24,Santos,3869887,97,76,62,99,67,0,ATAQUE,8
+505,Rafael,Gomes,21,São Paulo,3845468,62,86,57,70,51,1,GOL,3
+506,Caue,Castro,23,Chapecoense,482825,57,93,64,56,76,0,MEIO,6
+507,Rafael,Gomes,32,Cruzeiro,3653442,59,77,63,73,70,0,LIBERO,3
+508,Matheus,Menezes,31,Internacional,556382,70,56,58,77,74,0,GOL,1
+509,Pedro,Becker,32,Corinthians,3560225,85,73,70,94,85,0,DEFESA,5
+510,Rafael,Santiago,18,Grêmio,4966694,70,78,78,90,86,0,GOL,3
+511,Henrique,Santiago,32,Portuguesa,2997742,65,50,67,50,87,0,DEFESA,2
+512,Rafael,Araujo,27,Fortaleza,1048354,61,66,50,81,78,0,ATAQUE,7
+513,Peron,Silva,28,Flamengo,3262128,96,50,70,61,89,1,DEFESA,9
+514,Leonardo,Pereira,19,Goiás,3879851,83,60,55,96,55,0,GOL,4
+515,Pedro,Janeiro,19,Fluminense,2246630,83,96,58,79,80,0,ATAQUE,0
+516,Caue,Cavalcanti,22,Corinthians,2798082,52,86,83,87,89,0,MEIO,6
+517,Maurício,Rodrigues,30,Corinthians,3815414,83,64,95,66,53,1,MEIO,6
+518,Thiago,Rodrigues,24,Portuguesa,4585189,57,51,71,61,57,1,LIBERO,8
+519,Thiago,Rodrigues,27,Grêmio,2019516,77,71,81,62,78,1,LIBERO,1
+520,Davi,Neves,25,Corinthians,3180675,75,58,65,84,88,0,MEIO,5
+521,Breno,Lemos,28,Goiás,1893897,92,89,66,71,99,1,LIBERO,7
+522,Henrique,Silva,26,Volta Redonda,3182663,78,65,88,55,53,0,GOL,2
+523,Marcelo,Araujo,27,Chapecoense,2427667,87,77,65,79,81,0,ATAQUE,0
+524,Ricardo,Santiago,25,Fortaleza,2352327,67,51,90,97,78,1,ATAQUE,4
+525,Thiago,Janeiro,31,Volta Redonda,1885664,67,76,82,54,97,1,DEFESA,0
+526,Ricardo,Carvalho,30,Palmeiras,1578876,69,77,55,88,95,0,ATAQUE,5
+527,Matheus,Gomes,22,Portuguesa,1725422,87,77,86,57,70,1,ATAQUE,7
+528,Gustavo,Carvalho,32,Goiás,628430,61,59,58,82,63,1,DEFESA,0
+529,Caue,Oliveira,18,Vitória,3553308,97,94,82,86,70,1,ATAQUE,1
+530,Breno,Costa,23,Portuguesa,3947569,60,98,99,73,59,0,ATAQUE,2
+531,Breno,Santiago,32,Santos,4398883,69,96,91,68,75,1,GOL,6
+532,Peron,Lima,20,Cruzeiro,714083,97,73,52,57,53,1,DEFESA,2
+533,Breno,Oliveira,29,Portuguesa,4366451,70,62,85,91,78,0,MEIO,4
+534,Leonardo,Nascimento,23,Bahia,3841666,87,83,99,86,53,0,LIBERO,6
+535,Carlos,Silva,28,Corinthians,4744205,56,90,58,78,93,1,LIBERO,2
+536,Caue,Reis,31,Flamengo,2316237,78,72,53,67,54,1,GOL,7
+537,Breno,Rodrigues,23,Corinthians,1536672,87,98,79,95,88,1,LIBERO,3
+538,João,Reis,30,Goiás,4942176,85,76,65,65,70,0,GOL,4
+539,Rafael,Neves,31,Internacional,1879175,50,66,99,89,79,0,MEIO,9
+540,Leonardo,Santos,25,São Paulo,718960,62,80,88,97,54,1,LIBERO,6
+541,Thiago,Castro,31,Cruzeiro,653839,86,71,64,89,66,0,GOL,5
+542,Jean,Rodrigues,32,São Paulo,2925666,68,76,76,80,66,0,MEIO,0
+543,Ricardo,Menezes,25,São Paulo,586042,52,76,84,88,50,1,ATAQUE,6
+544,Lucas,Lima,24,Botafogo,1489408,77,97,76,96,52,0,MEIO,8
+545,Davi,Nascimento,29,Internacional,3072677,90,98,70,92,54,0,GOL,4
+546,João,Pereira,29,Fortaleza,3731360,84,99,70,62,96,0,LIBERO,0
+547,Lucas,Santiago,29,Grêmio,3285558,64,56,88,54,60,0,MEIO,6
+548,Peron,Nascimento,25,Goiás,4578124,95,70,87,80,59,0,GOL,8
+549,Rafael,Araujo,21,Fluminense,3797853,81,97,64,95,52,1,MEIO,2
+550,Carlos,Lima,31,Santos,307654,52,80,81,98,68,0,MEIO,7
+551,Maurício,Rodrigues,30,Flamengo,2727639,98,78,92,79,56,1,MEIO,0
+552,Davi,Oliveira,32,Flamengo,428691,54,64,96,57,77,1,MEIO,7
+553,Jean,Rodrigues,19,América,4864916,64,89,55,62,98,1,GOL,6
+554,Eduardo,Carvalho,32,Chapecoense,4611726,93,81,67,98,63,1,DEFESA,2
+555,Pedro,Carvalho,32,América,1898113,66,56,79,80,85,0,LIBERO,5
+556,Ricardo,Janeiro,31,Fluminense,2219139,62,55,65,56,85,0,ATAQUE,8
+557,Jean,Araujo,31,América,4712215,82,74,78,50,60,0,MEIO,5
+558,Henrique,Gomes,30,Santos,1179101,75,68,93,88,60,0,ATAQUE,5
+559,João,Menezes,19,Bahia,794672,89,96,90,73,70,0,LIBERO,0
+560,Davi,Gomes,30,Botafogo,143974,59,99,78,87,71,1,LIBERO,1
+561,Matheus,Cavalcanti,25,Chapecoense,2598355,75,50,77,64,67,1,GOL,0
+562,Ricardo,Oliveira,23,Fortaleza,3956755,98,61,79,59,59,0,LIBERO,0
+563,Matheus,Neves,27,Vasco,2339980,93,79,87,68,64,0,MEIO,4
+564,Caue,Santiago,22,América,4268271,94,63,76,94,58,0,LIBERO,7
+565,Pedro,Neves,28,Vasco,1903738,64,76,68,59,57,1,MEIO,1
+566,Gustavo,Pereira,23,Fortaleza,2302012,81,73,84,78,62,0,GOL,0
+567,Eduardo,Castro,18,Cruzeiro,1099711,92,61,99,58,69,1,MEIO,6
+568,João,Pereira,31,Botafogo,2348550,55,89,62,87,96,1,DEFESA,1
+569,Breno,Araujo,26,Flamengo,1612462,73,55,74,67,73,1,GOL,3
+570,Peron,Pereira,24,Goiás,1901590,69,93,90,77,54,0,GOL,3
+571,Matheus,Neves,22,Fortaleza,784317,97,96,80,73,56,0,MEIO,9
+572,Rafael,Pereira,32,Vasco,864530,96,97,72,67,64,0,MEIO,8
+573,Pedro,Nascimento,24,Volta Redonda,2232183,87,74,52,85,84,0,MEIO,0
+574,Lucas,Santos,28,Fluminense,4884018,96,77,50,94,72,0,DEFESA,6
+575,Davi,Castro,30,Palmeiras,3298475,80,72,60,68,63,1,LIBERO,7
+576,Ricardo,Lemos,21,América,865634,60,86,55,56,55,1,LIBERO,0
+577,Ricardo,Santiago,31,Internacional,2801255,75,50,81,58,91,0,ATAQUE,6
+578,Matheus,Becker,22,Portuguesa,1003735,94,67,72,54,77,0,ATAQUE,4
+579,Fernando,Carvalho,22,Santos,2486117,85,58,72,62,55,0,GOL,9
+580,Eduardo,Nascimento,28,Grêmio,411553,61,81,89,55,63,1,LIBERO,0
+581,Pedro,Lima,19,Chapecoense,794784,91,72,51,76,76,0,MEIO,3
+582,Caue,Silva,30,Bahia,3836691,90,93,94,51,83,1,MEIO,8
+583,Davi,Oliveira,31,São Paulo,2501259,65,82,93,58,97,0,ATAQUE,5
+584,Henrique,Rodrigues,31,Chapecoense,1304212,93,99,53,83,98,0,GOL,3
+585,Fernando,Janeiro,25,Fluminense,1572234,72,60,95,89,88,1,GOL,7
+586,Thiago,Reis,30,Goiás,2871271,71,55,85,66,89,1,GOL,9
+587,Thiago,Gomes,32,Botafogo,3338621,58,53,57,83,52,0,ATAQUE,2
+588,João,Reis,23,Atlético-PR,1180049,92,79,72,65,57,1,DEFESA,8
+589,Maurício,Rodrigues,22,Vitória,4576815,64,61,88,74,95,1,MEIO,9
+590,Peron,Lima,29,Goiás,3269246,71,69,95,66,67,1,DEFESA,6
+591,Thiago,Cavalcanti,23,Grêmio,185421,64,77,88,80,76,1,MEIO,3
+592,João,Becker,20,Goiás,2367569,66,54,65,87,60,1,GOL,9
+593,Carlos,Lemos,24,Vasco,2743190,81,61,64,97,52,0,LIBERO,1
+594,Leonardo,Becker,29,Grêmio,3586716,79,98,85,95,51,0,GOL,3
+595,Peron,Cavalcanti,26,Palmeiras,1278770,51,91,63,84,79,1,ATAQUE,1
+596,Gustavo,Lemos,22,Vasco,1566207,71,52,75,52,60,1,DEFESA,3
+597,Ricardo,Nascimento,25,América,4325196,72,60,69,73,82,1,DEFESA,1
+598,Marcelo,Gomes,22,Fortaleza,924276,61,54,85,82,60,0,ATAQUE,1
+599,Fernando,Cavalcanti,29,Flamengo,3789556,65,50,54,87,73,0,LIBERO,7
+600,Caue,Becker,26,São Paulo,3399973,65,68,50,76,87,0,LIBERO,8
+601,Eduardo,Nascimento,24,Palmeiras,2095056,57,55,64,73,69,0,ATAQUE,2
+602,Ricardo,Rodrigues,18,Fluminense,4998554,70,60,79,87,81,1,ATAQUE,9
+603,Thiago,Araujo,20,Botafogo,799973,90,60,82,99,96,0,ATAQUE,5
+604,Thiago,Santos,18,Vitória,390473,62,62,79,84,59,0,ATAQUE,0
+605,Carlos,Menezes,22,América,524840,78,92,66,70,98,0,DEFESA,4
+606,João,Oliveira,20,Palmeiras,1811638,74,97,61,86,91,0,GOL,0
+607,Maurício,Janeiro,20,Vitória,243249,54,51,89,82,57,1,GOL,5
+608,Ricardo,Neves,30,Atlético-PR,1781220,66,55,58,90,71,0,LIBERO,2
+609,Rafael,Santos,22,Cruzeiro,5046192,57,77,91,61,82,1,GOL,0
+610,Lucas,Costa,30,Internacional,999003,99,97,73,65,83,1,ATAQUE,5
+611,Jean,Pereira,20,Santos,930526,84,75,70,93,63,0,LIBERO,8
+612,Gustavo,Carvalho,26,Vitória,750789,87,81,93,87,68,0,MEIO,2
+613,Maurício,Lemos,20,América,4347118,76,81,94,62,67,1,MEIO,0
+614,Matheus,Castro,21,Botafogo,3234758,68,71,99,56,94,1,DEFESA,3
+615,Caue,Lima,25,Botafogo,4062960,76,65,78,52,73,1,MEIO,2
+616,Peron,Santos,27,Goiás,1194370,53,53,78,73,77,1,DEFESA,2
+617,Eduardo,Carvalho,30,São Paulo,3195977,54,99,89,80,68,0,GOL,3
+618,Caue,Araujo,23,Goiás,1390995,59,64,65,64,95,0,ATAQUE,5
+619,Caue,Santos,32,São Paulo,4119183,86,84,62,92,51,0,MEIO,9
+620,Eduardo,Cavalcanti,22,Portuguesa,1907643,99,88,90,61,56,1,DEFESA,3
+621,Fernando,Castro,21,Bahia,4222037,79,91,72,65,86,1,MEIO,8
+622,Gustavo,Menezes,32,Santos,2647335,74,54,78,75,69,0,DEFESA,7
+623,Pedro,Cavalcanti,23,Chapecoense,1347633,61,68,72,90,97,0,GOL,3
+624,Leonardo,Pereira,31,Atlético-PR,1239571,85,93,57,59,85,0,DEFESA,4
+625,Matheus,Santiago,31,Volta Redonda,3484056,64,66,91,77,65,1,GOL,2
+626,Leonardo,Gomes,31,Internacional,4390896,71,96,67,56,74,1,ATAQUE,2
+627,João,Gomes,21,Chapecoense,3029270,52,66,78,68,69,1,DEFESA,4
+628,Rafael,Becker,22,Fortaleza,244665,97,89,61,70,80,1,ATAQUE,7
+629,Henrique,Costa,22,Santos,4833351,87,81,71,91,99,1,MEIO,8
+630,Eduardo,Pereira,27,Botafogo,160479,55,69,94,52,57,1,MEIO,8
+631,Maurício,Santiago,18,Portuguesa,607595,66,55,96,55,67,1,DEFESA,8
+632,Lucas,Janeiro,21,Chapecoense,319075,94,94,55,50,51,0,GOL,9
+633,Breno,Araujo,25,Palmeiras,3128301,94,86,96,62,94,1,MEIO,3
+634,Rafael,Lemos,24,América,3891483,69,96,61,63,68,1,MEIO,9
+635,Lucas,Rodrigues,21,Bahia,2870306,77,83,57,73,55,1,MEIO,9
+636,Ricardo,Nascimento,25,Grêmio,3521905,95,50,90,66,53,1,GOL,1
+637,Leonardo,Nascimento,26,Volta Redonda,4180731,73,66,89,51,98,0,GOL,5
+638,Maurício,Becker,24,Bahia,3561774,68,92,81,65,73,1,DEFESA,7
+639,Matheus,Becker,18,Flamengo,790081,93,77,65,67,56,0,MEIO,7
+640,Davi,Carvalho,30,São Paulo,2920004,71,83,80,89,63,1,LIBERO,6
+641,Davi,Becker,28,Atlético-PR,1664696,68,63,78,63,95,0,ATAQUE,3
+642,Peron,Santiago,20,Cruzeiro,3938008,77,65,62,98,92,1,MEIO,5
+643,Henrique,Menezes,32,Botafogo,4984008,61,88,55,79,85,1,LIBERO,2
+644,Ricardo,Oliveira,20,Flamengo,1363723,50,83,82,77,94,1,DEFESA,9
+645,João,Costa,19,Grêmio,3281326,92,98,87,54,92,1,ATAQUE,9
+646,Lucas,Lima,31,Corinthians,2127071,50,90,95,52,77,1,GOL,3
+647,Henrique,Cavalcanti,20,Cruzeiro,1097057,61,86,84,53,71,1,GOL,5
+648,Ricardo,Santos,29,Internacional,599996,59,85,67,61,64,0,GOL,1
+649,Ricardo,Menezes,28,Santos,2549455,79,77,62,90,96,0,MEIO,9
+650,Fernando,Carvalho,32,Flamengo,2903830,82,78,78,91,96,1,DEFESA,2
+651,Carlos,Gomes,22,Fluminense,2007169,71,68,74,52,87,1,GOL,5
+652,Caue,Cavalcanti,23,Goiás,128279,91,99,59,74,88,1,LIBERO,6
+653,Maurício,Santiago,31,Cruzeiro,1137479,54,60,50,77,75,0,ATAQUE,4
+654,Fernando,Costa,32,Corinthians,380398,56,64,77,50,88,0,DEFESA,8
+655,Ricardo,Neves,19,Portuguesa,3622230,67,65,61,73,62,1,ATAQUE,7
+656,Jean,Castro,19,Vasco,1542476,52,76,76,61,55,1,GOL,4
+657,Breno,Menezes,27,Fortaleza,2812349,93,54,82,60,93,1,MEIO,5
+658,Rafael,Santiago,27,Chapecoense,2613895,95,79,72,50,50,1,GOL,6
+659,Pedro,Becker,30,Palmeiras,918020,76,97,70,71,52,1,DEFESA,7
+660,Leonardo,Pereira,21,Internacional,3634133,97,77,78,95,52,1,LIBERO,3
+661,Eduardo,Menezes,29,Flamengo,4807428,63,93,98,91,70,1,DEFESA,4
+662,Henrique,Oliveira,32,Botafogo,4814250,77,73,83,76,63,1,DEFESA,8
+663,Eduardo,Silva,19,Goiás,319238,84,58,68,99,67,0,ATAQUE,9
+664,Fernando,Menezes,29,Vitória,3504071,90,71,73,69,58,1,LIBERO,1
+665,Caue,Santos,22,Bahia,3628973,62,68,64,98,82,1,LIBERO,1
+666,Marcelo,Rodrigues,21,Internacional,3595678,59,51,51,51,74,0,MEIO,2
+667,Leonardo,Becker,24,Corinthians,719915,97,80,90,62,54,0,ATAQUE,7
+668,Marcelo,Oliveira,18,Flamengo,1519696,83,95,77,92,78,1,MEIO,5
+669,Ricardo,Nascimento,27,Botafogo,462953,97,75,68,95,61,1,MEIO,5
+670,Caue,Reis,22,Grêmio,599402,95,81,99,78,78,1,ATAQUE,8
+671,Davi,Silva,21,Goiás,3548591,55,71,97,52,67,1,LIBERO,8
+672,Lucas,Lemos,29,Santos,3897851,52,63,54,97,53,0,DEFESA,3
+673,Matheus,Menezes,19,Palmeiras,4979358,57,59,51,62,98,0,DEFESA,6
+674,Davi,Cavalcanti,27,Corinthians,1976850,90,60,52,93,56,0,ATAQUE,1
+675,Pedro,Santos,27,Botafogo,1315507,85,51,67,94,68,0,GOL,7
+676,Ricardo,Castro,21,Palmeiras,525413,79,71,65,70,67,1,GOL,5
+677,Breno,Lima,24,Fortaleza,426336,82,61,95,70,64,0,ATAQUE,2
+678,Matheus,Costa,19,Vasco,4873096,86,93,61,66,76,0,GOL,6
+679,Ricardo,Becker,24,Fortaleza,4328749,60,50,87,92,82,0,LIBERO,8
+680,Leonardo,Santiago,31,Flamengo,4442767,84,50,63,73,76,1,LIBERO,3
+681,Leonardo,Rodrigues,22,Fortaleza,2131926,72,50,76,82,63,1,ATAQUE,8
+682,Breno,Santiago,29,Fluminense,768487,79,68,56,66,72,1,ATAQUE,8
+683,Marcelo,Lima,24,Chapecoense,1273887,52,93,63,75,91,1,LIBERO,5
+684,Maurício,Santiago,31,Fortaleza,5018447,99,92,86,81,92,1,DEFESA,4
+685,Lucas,Pereira,26,Portuguesa,527372,66,79,61,71,76,0,MEIO,8
+686,Fernando,Rodrigues,26,Santos,3075471,76,66,70,77,56,0,DEFESA,9
+687,Carlos,Lemos,28,Chapecoense,3043150,78,71,72,97,85,0,LIBERO,1
+688,Henrique,Becker,27,Grêmio,3279506,52,63,79,80,50,0,GOL,6
+689,Marcelo,Gomes,25,São Paulo,3048016,73,81,68,53,92,0,GOL,7
+690,Marcelo,Silva,32,Fluminense,1156674,68,60,80,73,59,1,GOL,1
+691,Jean,Santiago,18,Fortaleza,664910,77,68,79,52,97,0,LIBERO,0
+692,Davi,Rodrigues,25,Chapecoense,4041144,58,67,68,79,50,0,ATAQUE,1
+693,Fernando,Janeiro,31,Atlético-PR,345557,93,57,69,70,98,1,DEFESA,6
+694,Gustavo,Neves,21,Grêmio,1172895,57,72,89,66,59,1,MEIO,9
+695,Breno,Janeiro,18,Vitória,946532,95,77,89,88,61,1,DEFESA,9
+696,Henrique,Reis,30,Volta Redonda,4315921,97,60,68,55,59,1,ATAQUE,8
+697,Lucas,Rodrigues,32,Bahia,2877315,51,75,97,97,89,1,LIBERO,0
+698,Henrique,Gomes,19,Fortaleza,3280441,69,53,62,68,80,1,MEIO,9
+699,Davi,Rodrigues,32,Corinthians,4942816,88,89,83,91,81,0,MEIO,2
+700,Maurício,Gomes,20,São Paulo,145814,85,57,55,56,69,1,DEFESA,9
+701,Lucas,Lima,23,Bahia,2468147,51,69,66,89,99,1,ATAQUE,2
+702,Gustavo,Janeiro,22,América,3759613,78,70,80,64,87,0,ATAQUE,7
+703,Thiago,Janeiro,31,Corinthians,3311045,51,99,95,52,63,0,DEFESA,2
+704,Thiago,Santos,23,Corinthians,938663,99,96,79,80,59,0,LIBERO,8
+705,Rafael,Rodrigues,18,Vitória,711614,66,64,62,67,57,1,GOL,0
+706,Jean,Santiago,22,Santos,3286428,79,91,94,81,73,1,LIBERO,4
+707,Thiago,Reis,20,Cruzeiro,4989902,90,89,67,56,79,1,ATAQUE,8
+708,Maurício,Araujo,28,Corinthians,713773,94,52,53,76,97,1,LIBERO,2
+709,Lucas,Lemos,19,América,3321103,89,50,56,81,73,1,MEIO,4
+710,Marcelo,Reis,20,Fortaleza,667472,54,64,97,98,50,0,MEIO,0
+711,Ricardo,Cavalcanti,25,Internacional,3740742,81,82,96,72,52,1,LIBERO,7
+712,Marcelo,Castro,21,Santos,920694,77,56,68,81,65,1,MEIO,8
+713,Davi,Oliveira,23,Palmeiras,3527253,94,99,98,75,94,1,ATAQUE,8
+714,Pedro,Santiago,28,Fortaleza,441976,58,96,70,85,91,0,ATAQUE,8
+715,Carlos,Rodrigues,21,Chapecoense,1470176,98,53,82,95,80,0,LIBERO,6
+716,Pedro,Silva,32,Goiás,3780259,99,73,85,59,58,0,DEFESA,9
+717,Henrique,Castro,27,Internacional,1780228,88,77,57,88,89,1,DEFESA,1
+718,Davi,Santiago,30,Portuguesa,2710787,71,58,97,72,82,1,ATAQUE,2
+719,Gustavo,Nascimento,21,Volta Redonda,2682788,53,64,66,93,73,1,ATAQUE,2
+720,Carlos,Santos,23,América,1359389,82,59,76,53,73,1,DEFESA,8
+721,Lucas,Oliveira,28,Grêmio,3128135,96,88,73,51,90,0,LIBERO,5
+722,Leonardo,Silva,18,Corinthians,4818681,65,75,70,98,99,1,LIBERO,4
+723,Caue,Lima,25,Atlético-PR,827859,85,85,94,81,70,0,ATAQUE,0
+724,Davi,Pereira,18,Volta Redonda,77345,55,56,78,71,51,1,ATAQUE,0
+725,Maurício,Becker,22,Volta Redonda,2276477,59,51,88,96,84,1,DEFESA,4
+726,Gustavo,Rodrigues,32,Grêmio,484917,92,50,64,99,94,0,GOL,5
+727,Ricardo,Silva,20,São Paulo,3617282,74,79,61,83,99,1,ATAQUE,3
+728,Davi,Rodrigues,31,Grêmio,2383376,54,62,95,98,59,0,DEFESA,5
+729,Pedro,Neves,19,Vasco,2835423,50,90,57,74,68,1,LIBERO,9
+730,Rafael,Araujo,25,Fluminense,2810158,92,67,84,99,79,1,DEFESA,0
+731,Thiago,Nascimento,19,São Paulo,3303582,99,92,57,99,64,0,GOL,4
+732,Jean,Nascimento,21,Flamengo,3181586,57,68,94,50,81,1,MEIO,0
+733,Davi,Pereira,29,Corinthians,317484,99,72,68,98,75,1,ATAQUE,1
+734,Matheus,Lemos,23,Volta Redonda,1104465,80,79,53,88,97,0,GOL,0
+735,Breno,Pereira,24,Volta Redonda,1314422,94,87,57,95,75,1,ATAQUE,3
+736,Maurício,Neves,32,Vasco,4891329,72,77,94,52,99,0,MEIO,8
+737,Marcelo,Pereira,27,Chapecoense,450402,70,59,74,66,83,1,ATAQUE,9
+738,Rafael,Neves,27,Flamengo,1416407,60,70,88,82,82,1,MEIO,3
+739,Breno,Cavalcanti,29,Flamengo,2261614,60,81,68,80,92,0,DEFESA,6
+740,Carlos,Carvalho,30,Botafogo,3094184,51,66,91,63,81,0,DEFESA,3
+741,Ricardo,Lima,21,Goiás,3731664,80,78,78,90,96,1,MEIO,1
+742,Gustavo,Neves,32,Grêmio,3033644,56,96,79,59,72,0,DEFESA,4
+743,Peron,Santiago,22,Chapecoense,4524234,68,76,99,50,77,0,DEFESA,6
+744,Jean,Santos,32,América,4855016,88,68,63,94,94,1,DEFESA,6
+745,Carlos,Rodrigues,20,Santos,3472771,94,63,55,62,54,0,DEFESA,4
+746,João,Oliveira,25,Portuguesa,2705137,81,57,56,69,69,1,DEFESA,3
+747,Marcelo,Araujo,29,Grêmio,4255806,54,53,77,98,85,0,ATAQUE,9
+748,Henrique,Castro,23,Santos,3174973,87,52,60,68,68,1,DEFESA,7
+749,Peron,Costa,30,Vitória,4326502,86,76,61,92,90,0,GOL,5
+750,Henrique,Gomes,25,Santos,3433667,92,64,92,82,55,0,ATAQUE,3
+751,Marcelo,Lima,31,Vitória,4077695,65,71,99,53,60,1,GOL,3
+752,Leonardo,Lemos,18,Cruzeiro,2511944,97,77,63,92,56,0,ATAQUE,1
+753,Eduardo,Gomes,27,Corinthians,171558,97,65,53,65,55,0,GOL,5
+754,Rafael,Santiago,28,Internacional,2857400,51,51,96,50,60,0,LIBERO,6
+755,Marcelo,Carvalho,27,Bahia,5031881,65,69,91,65,97,0,GOL,2
+756,Peron,Cavalcanti,32,Vasco,3448925,90,76,77,91,74,1,MEIO,4
+757,Davi,Becker,30,Vasco,2328571,83,59,54,98,98,1,GOL,5
+758,Fernando,Menezes,25,Vasco,4781195,66,68,72,58,50,1,DEFESA,4
+759,Jean,Gomes,18,Cruzeiro,2391465,64,93,88,97,95,1,LIBERO,3
+760,Gustavo,Carvalho,31,Fluminense,845087,87,56,83,55,55,0,LIBERO,7
+761,Ricardo,Lemos,24,Flamengo,1920776,93,95,91,57,79,0,MEIO,4
+762,João,Castro,20,Volta Redonda,1571725,57,75,65,96,98,0,MEIO,5
+763,Marcelo,Costa,31,Volta Redonda,4172873,94,50,99,90,90,1,LIBERO,0
+764,Rafael,Castro,29,São Paulo,3350204,66,79,82,75,97,0,ATAQUE,7
+765,Eduardo,Lima,20,Corinthians,3482176,65,87,99,62,99,0,ATAQUE,1
+766,Gustavo,Santiago,21,Chapecoense,3831796,60,73,52,76,84,1,DEFESA,3
+767,Fernando,Carvalho,18,Internacional,2989645,83,55,73,50,72,0,GOL,3
+768,Henrique,Neves,18,Portuguesa,4243083,78,81,79,88,83,0,LIBERO,8
+769,Lucas,Janeiro,31,Volta Redonda,3555020,86,53,67,71,90,1,DEFESA,4
+770,Maurício,Araujo,21,São Paulo,3835397,55,72,82,83,61,0,LIBERO,5
+771,Lucas,Silva,18,Santos,3886143,70,60,65,56,82,1,ATAQUE,4
+772,Breno,Cavalcanti,23,Internacional,4357511,78,87,58,85,91,1,LIBERO,4
+773,Fernando,Pereira,29,Volta Redonda,4004797,68,50,90,89,55,1,GOL,9
+774,Jean,Janeiro,31,Vitória,4031827,56,59,88,86,99,0,GOL,2
+775,Gustavo,Oliveira,19,Vasco,868901,50,75,99,68,89,1,MEIO,7
+776,Ricardo,Oliveira,29,Flamengo,3190367,52,54,94,58,83,0,GOL,4
+777,Rafael,Menezes,29,Chapecoense,3615102,74,99,56,74,55,1,MEIO,6
+778,Pedro,Silva,21,Bahia,4320956,82,89,73,84,70,0,MEIO,3
+779,Lucas,Silva,32,América,2626906,65,68,60,89,66,0,GOL,3
+780,Breno,Santiago,18,Palmeiras,4359539,65,73,96,97,71,1,MEIO,1
+781,Thiago,Castro,24,Corinthians,1158056,85,77,64,50,75,0,MEIO,1
+782,Rafael,Becker,28,América,1556610,87,80,51,52,97,0,MEIO,1
+783,Ricardo,Oliveira,32,Internacional,2647060,61,85,67,96,81,1,ATAQUE,8
+784,Caue,Santos,18,Bahia,400395,67,66,57,54,59,0,DEFESA,8
+785,Marcelo,Costa,32,Vasco,3331912,94,63,74,57,93,1,LIBERO,5
+786,Maurício,Cavalcanti,23,Botafogo,1669010,85,96,56,54,63,0,ATAQUE,2
+787,Carlos,Nascimento,24,Bahia,3312447,62,77,61,58,85,1,LIBERO,9
+788,Gustavo,Janeiro,19,Internacional,2303040,91,73,50,79,58,1,LIBERO,2
+789,Maurício,Santiago,29,Cruzeiro,4936766,79,94,65,94,76,0,DEFESA,1
+790,Eduardo,Neves,25,Atlético-PR,650073,98,66,63,90,64,1,DEFESA,2
+791,João,Pereira,29,Vasco,2279492,95,61,60,76,75,0,MEIO,1
+792,Fernando,Janeiro,22,Internacional,682913,57,86,87,55,50,1,DEFESA,6
+793,Davi,Santiago,29,Cruzeiro,945452,87,71,96,84,56,1,ATAQUE,1
+794,Ricardo,Cavalcanti,27,Flamengo,4085927,50,57,91,57,80,1,GOL,0
+795,João,Menezes,32,Cruzeiro,2587653,90,56,57,79,53,0,LIBERO,9
+796,Leonardo,Carvalho,30,Santos,2662786,76,75,66,76,59,0,ATAQUE,9
+797,Caue,Costa,29,Internacional,2425626,70,50,79,60,86,0,DEFESA,1
+798,Rafael,Rodrigues,28,Internacional,4167062,92,99,50,70,66,0,LIBERO,5
+799,Maurício,Santiago,19,Volta Redonda,1916367,88,55,95,58,74,1,LIBERO,2
+800,Gustavo,Rodrigues,23,Chapecoense,340804,55,54,68,99,71,1,ATAQUE,9
+801,Thiago,Santiago,28,Vitória,100426,83,91,95,71,90,0,LIBERO,6
+802,Matheus,Reis,28,Goiás,2509970,85,85,76,92,95,1,MEIO,6
+803,Pedro,Rodrigues,18,Grêmio,2589711,72,85,89,56,86,1,GOL,6
+804,Matheus,Carvalho,32,Fluminense,4432699,76,84,69,61,96,1,GOL,3
+805,Henrique,Pereira,19,Vasco,4421077,68,92,91,91,80,1,DEFESA,9
+806,Marcelo,Becker,30,Vitória,985563,92,62,63,68,84,0,ATAQUE,2
+807,Thiago,Nascimento,28,Goiás,1765284,86,96,63,55,54,0,DEFESA,7
+808,Carlos,Rodrigues,24,Grêmio,1008606,53,75,72,97,87,0,MEIO,1
+809,Peron,Lima,19,Chapecoense,1813334,81,77,70,70,86,1,MEIO,0
+810,Ricardo,Janeiro,22,Fluminense,4606455,87,57,61,93,85,0,GOL,2
+811,Lucas,Becker,29,Fortaleza,1535369,52,56,56,85,76,1,MEIO,2
+812,Peron,Becker,18,América,4033352,86,85,57,76,71,1,ATAQUE,6
+813,Matheus,Lima,29,Goiás,1797117,79,90,86,83,94,0,GOL,1
+814,Henrique,Carvalho,18,Corinthians,354811,92,68,66,79,73,1,ATAQUE,4
+815,Eduardo,Reis,31,Grêmio,280633,86,67,50,65,89,0,DEFESA,3
+816,Eduardo,Reis,19,Vitória,2605128,94,55,91,86,57,1,ATAQUE,1
+817,João,Santiago,25,São Paulo,1846805,82,96,89,68,91,1,ATAQUE,0
+818,Ricardo,Becker,29,Fluminense,3429820,74,50,50,68,92,1,GOL,9
+819,João,Nascimento,30,Grêmio,2748286,62,53,91,94,82,1,GOL,4
+820,Peron,Silva,29,Corinthians,664122,74,94,95,99,95,1,LIBERO,9
+821,Davi,Oliveira,24,Botafogo,2470643,75,56,81,87,73,0,ATAQUE,7
+822,Caue,Janeiro,19,Palmeiras,4524770,90,91,95,64,92,1,LIBERO,7
+823,Thiago,Reis,30,Internacional,5025122,70,70,68,95,99,1,MEIO,4
+824,Breno,Pereira,25,Flamengo,3170935,65,73,57,55,54,0,LIBERO,6
+825,Fernando,Silva,19,Santos,4612930,65,90,55,85,73,0,DEFESA,2
+826,Fernando,Neves,27,Vitória,1467740,81,56,75,98,84,0,LIBERO,1
+827,Henrique,Pereira,22,Grêmio,1435398,75,86,78,92,83,1,GOL,8
+828,Marcelo,Santos,26,Internacional,4612064,82,62,54,65,81,1,GOL,8
+829,Thiago,Gomes,24,Palmeiras,132857,50,57,55,78,85,0,ATAQUE,9
+830,Peron,Neves,25,São Paulo,299497,62,89,63,94,68,1,MEIO,1
+831,Ricardo,Araujo,24,São Paulo,1270926,82,88,83,85,90,1,MEIO,5
+832,Leonardo,Santiago,29,Bahia,1852582,76,51,79,88,93,1,DEFESA,3
+833,Maurício,Costa,19,Bahia,1515443,88,64,69,72,54,1,DEFESA,4
+834,Peron,Lima,24,Portuguesa,2465614,68,51,96,94,78,0,ATAQUE,1
+835,Fernando,Oliveira,29,Santos,4351465,52,83,58,92,79,1,DEFESA,5
+836,Henrique,Rodrigues,22,Grêmio,4989799,50,63,63,70,60,0,LIBERO,8
+837,Leonardo,Cavalcanti,19,Vitória,217062,99,76,77,53,87,0,LIBERO,8
+838,Ricardo,Santos,26,Palmeiras,2162665,84,94,65,86,80,1,MEIO,0
+839,Gustavo,Gomes,23,Vasco,2809561,93,85,73,92,50,0,GOL,9
+840,Rafael,Pereira,20,Cruzeiro,2760698,60,56,63,96,80,0,GOL,1
+841,Carlos,Araujo,21,Cruzeiro,3483478,86,83,89,79,62,0,MEIO,4
+842,João,Nascimento,21,Portuguesa,1885244,62,83,92,74,58,0,MEIO,0
+843,Pedro,Pereira,31,Vitória,3063339,57,59,67,93,58,0,ATAQUE,2
+844,Marcelo,Santiago,19,Vitória,4632506,91,96,51,55,95,1,ATAQUE,5
+845,Carlos,Santiago,19,Vitória,2123824,99,50,64,58,83,1,ATAQUE,4
+846,Marcelo,Castro,29,Flamengo,3748515,53,57,72,96,75,0,MEIO,2
+847,Jean,Becker,31,Cruzeiro,3730981,76,89,56,77,72,0,GOL,7
+848,Caue,Neves,19,Grêmio,1329172,68,52,87,73,59,1,DEFESA,6
+849,Matheus,Lima,22,Volta Redonda,3498217,89,92,99,65,57,0,MEIO,9
+850,Marcelo,Araujo,19,São Paulo,3860677,88,93,51,58,89,1,ATAQUE,0
+851,Pedro,Santiago,22,Fluminense,3900182,98,85,52,87,51,0,GOL,0
+852,Rafael,Araujo,19,Bahia,5034608,77,51,87,67,89,1,DEFESA,0
+853,Eduardo,Menezes,30,Grêmio,590633,71,89,66,69,70,0,ATAQUE,3
+854,Pedro,Lemos,26,Grêmio,4712647,74,90,57,53,94,1,DEFESA,3
+855,Lucas,Santiago,23,Chapecoense,3229494,98,72,77,69,95,1,MEIO,5
+856,Breno,Silva,31,Fortaleza,2420453,73,75,52,97,59,1,MEIO,3
+857,Henrique,Neves,32,Goiás,969491,56,87,87,54,66,0,MEIO,2
+858,Fernando,Nascimento,27,Fluminense,5046799,70,80,54,95,58,1,LIBERO,9
+859,Eduardo,Reis,23,Vitória,1151342,64,52,85,72,72,1,ATAQUE,0
+860,Matheus,Castro,30,Flamengo,3459787,84,86,89,56,95,1,DEFESA,4
+861,Rafael,Neves,28,Goiás,1157041,50,70,85,66,72,1,MEIO,6
+862,Rafael,Rodrigues,25,Grêmio,4366048,91,91,88,77,77,1,DEFESA,4
+863,Leonardo,Pereira,23,Internacional,3019880,56,82,71,56,59,1,LIBERO,3
+864,Maurício,Reis,23,Flamengo,3647671,69,51,71,60,59,0,DEFESA,8
+865,Matheus,Janeiro,26,Santos,3115647,95,98,77,51,50,0,DEFESA,1
+866,Matheus,Menezes,23,Bahia,4152116,77,81,87,96,61,0,ATAQUE,2
+867,Eduardo,Santos,29,Vitória,2410671,76,88,70,71,97,1,ATAQUE,0
+868,Fernando,Cavalcanti,24,Flamengo,3503475,56,69,91,83,81,1,LIBERO,2
+869,Marcelo,Rodrigues,22,Flamengo,3397313,77,66,87,55,57,1,ATAQUE,7
+870,João,Araujo,25,Bahia,4587171,68,59,96,77,87,0,ATAQUE,0
+871,João,Oliveira,32,Fluminense,2299976,79,78,91,58,78,0,GOL,8
+872,Jean,Lemos,30,Bahia,2393307,56,88,80,76,76,1,MEIO,6
+873,Davi,Cavalcanti,24,Santos,2442421,51,50,99,82,90,0,GOL,1
+874,Davi,Lima,29,Cruzeiro,640921,58,52,80,66,61,0,DEFESA,7
+875,Rafael,Silva,26,Fluminense,3763477,92,80,50,93,51,1,GOL,4
+876,Breno,Menezes,30,Vasco,298613,78,81,84,88,65,0,ATAQUE,6
+877,Henrique,Janeiro,23,Vitória,4021290,69,60,70,63,70,0,MEIO,4
+878,Fernando,Lima,31,Vitória,986821,85,84,86,65,71,1,MEIO,8
+879,Breno,Silva,22,Botafogo,2686202,79,52,93,50,63,1,MEIO,5
+880,Gustavo,Santos,32,Fluminense,215316,77,61,89,64,76,1,ATAQUE,7
+881,Pedro,Santiago,23,Atlético-PR,1785000,51,99,52,82,97,1,MEIO,0
+882,Eduardo,Oliveira,24,Santos,4243758,55,78,74,85,64,1,DEFESA,2
+883,Gustavo,Araujo,29,Internacional,2780574,76,59,76,79,80,1,DEFESA,8
+884,Davi,Janeiro,26,Chapecoense,4681907,86,71,65,94,89,1,GOL,5
+885,Peron,Menezes,20,Cruzeiro,2010692,88,81,68,66,94,1,GOL,5
+886,Caue,Lemos,28,Chapecoense,2766043,95,58,50,82,67,0,GOL,9
+887,Breno,Silva,27,Cruzeiro,1507866,64,57,60,54,79,1,GOL,3
+888,Lucas,Silva,23,Palmeiras,4238493,55,95,88,51,91,1,MEIO,8
+889,Matheus,Becker,25,Fortaleza,2060854,84,67,70,98,82,0,DEFESA,1
+890,Leonardo,Castro,30,Portuguesa,701128,87,83,73,95,64,0,DEFESA,5
+891,Matheus,Lemos,23,Vasco,863347,85,72,51,69,73,1,ATAQUE,5
+892,Matheus,Oliveira,27,Cruzeiro,1664533,56,55,61,95,87,0,DEFESA,1
+893,Eduardo,Santiago,26,Cruzeiro,1761032,73,71,81,58,82,1,GOL,7
+894,Eduardo,Pereira,27,Vitória,3966989,83,77,72,91,86,1,LIBERO,5
+895,Breno,Lima,29,Flamengo,4251654,86,93,86,59,67,0,MEIO,1
+896,Breno,Nascimento,26,Corinthians,2230504,73,74,96,58,68,0,GOL,6
+897,Breno,Santos,24,Vasco,3664357,59,88,61,95,50,1,DEFESA,7
+898,Thiago,Lima,29,Goiás,4862167,79,76,71,54,67,1,ATAQUE,8
+899,Ricardo,Janeiro,27,Fortaleza,340252,78,74,61,87,74,1,LIBERO,4
+900,Peron,Becker,22,Atlético-PR,2693917,65,97,86,96,58,1,ATAQUE,7
+901,Rafael,Araujo,30,Cruzeiro,4324076,64,87,80,92,91,1,ATAQUE,8
+902,Henrique,Cavalcanti,30,Flamengo,724131,88,81,51,55,87,0,MEIO,7
+903,Jean,Cavalcanti,28,Atlético-PR,2233271,92,54,98,58,78,0,DEFESA,2
+904,Pedro,Cavalcanti,18,Portuguesa,4278914,84,61,96,73,99,0,GOL,6
+905,Peron,Oliveira,22,Volta Redonda,3930322,61,58,93,55,93,0,LIBERO,4
+906,João,Reis,29,Vasco,2553155,88,51,71,72,67,1,ATAQUE,8
+907,Davi,Oliveira,23,Flamengo,1848068,89,98,92,52,88,1,ATAQUE,1
+908,Gustavo,Oliveira,30,Vasco,2260602,53,86,57,91,79,0,ATAQUE,8
+909,Matheus,Oliveira,30,Palmeiras,4385948,72,54,68,63,61,1,LIBERO,1
+910,Peron,Nascimento,27,Fluminense,1462424,92,84,76,97,86,1,MEIO,5
+911,Thiago,Santiago,28,São Paulo,1599331,82,66,81,56,52,1,DEFESA,5
+912,Rafael,Silva,24,Atlético-PR,473232,50,59,56,92,82,0,MEIO,8
+913,Jean,Gomes,28,Flamengo,2587851,51,62,82,83,66,0,MEIO,8
+914,Matheus,Janeiro,21,São Paulo,2912523,99,65,55,51,61,0,LIBERO,5
+915,Rafael,Castro,24,Chapecoense,1798120,51,61,71,52,53,0,DEFESA,9
+916,Pedro,Costa,22,Botafogo,4183739,72,99,62,71,69,1,ATAQUE,0
+917,Carlos,Cavalcanti,30,Volta Redonda,3576646,93,78,66,95,87,1,DEFESA,2
+918,Breno,Becker,22,Atlético-PR,2550531,53,69,72,76,86,1,ATAQUE,5
+919,Maurício,Gomes,30,Botafogo,591981,64,54,79,58,95,1,GOL,4
+920,Maurício,Becker,19,Goiás,4125764,92,67,97,96,71,0,GOL,9
+921,Matheus,Reis,24,Vasco,3376161,53,95,94,70,73,0,MEIO,0
+922,Leonardo,Reis,32,Palmeiras,1065252,83,89,68,75,66,1,GOL,9
+923,Fernando,Silva,22,Grêmio,4027590,65,71,54,71,98,1,DEFESA,4
+924,Fernando,Santos,32,São Paulo,1966811,99,57,63,82,81,1,DEFESA,9
+925,Gustavo,Gomes,19,Vasco,423752,90,99,94,57,98,0,LIBERO,9
+926,Fernando,Pereira,26,São Paulo,745158,69,64,69,68,84,0,DEFESA,6
+927,Maurício,Santiago,30,América,3360578,58,75,82,50,79,0,LIBERO,9
+928,Peron,Silva,26,Vasco,3673346,53,70,56,73,76,1,DEFESA,0
+929,Eduardo,Becker,31,Santos,4997261,98,59,91,58,76,1,GOL,5
+930,Gustavo,Pereira,27,Cruzeiro,4722657,65,83,55,70,62,1,ATAQUE,8
+931,Breno,Oliveira,23,Chapecoense,2319338,79,53,51,79,92,1,GOL,0
+932,Rafael,Castro,18,Chapecoense,301381,62,83,88,79,96,1,MEIO,8
+933,Ricardo,Pereira,29,Goiás,3786021,98,75,59,79,62,0,MEIO,7
+934,Henrique,Becker,30,Vitória,219858,55,64,91,69,82,0,GOL,8
+935,Breno,Costa,31,Goiás,1391553,84,82,75,84,86,0,LIBERO,9
+936,Pedro,Lemos,29,Vasco,2002176,83,65,86,88,80,1,ATAQUE,4
+937,Thiago,Lemos,32,Bahia,2012081,82,55,85,68,62,0,DEFESA,8
+938,Henrique,Gomes,27,Chapecoense,932924,55,59,52,91,91,1,ATAQUE,3
+939,Caue,Gomes,27,Vasco,516877,83,57,58,67,95,1,GOL,7
+940,Breno,Castro,21,Vasco,1164399,57,97,76,65,80,0,GOL,1
+941,Carlos,Janeiro,24,São Paulo,2221074,85,83,51,70,59,1,MEIO,7
+942,Henrique,Oliveira,22,Fluminense,3194321,74,76,70,84,98,1,ATAQUE,9
+943,Breno,Costa,20,Flamengo,324159,99,83,85,86,86,1,GOL,7
+944,Eduardo,Reis,22,América,1155182,71,95,55,95,78,1,DEFESA,6
+945,Pedro,Carvalho,23,Palmeiras,2969050,60,94,61,59,96,1,MEIO,4
+946,Rafael,Santiago,19,Volta Redonda,4584077,86,84,60,57,67,0,MEIO,5
+947,Rafael,Costa,32,Corinthians,4893329,81,62,81,91,94,0,MEIO,2
+948,Lucas,Araujo,24,Vasco,4748593,58,67,71,96,83,1,MEIO,0
+949,Thiago,Menezes,26,Botafogo,1513234,74,66,66,55,97,1,ATAQUE,2
+950,Jean,Pereira,32,Botafogo,2742111,63,64,54,71,75,1,GOL,8
+951,Pedro,Nascimento,29,Grêmio,2927258,59,77,92,83,60,0,ATAQUE,8
+952,Carlos,Santos,20,Cruzeiro,3078538,88,98,99,51,55,0,ATAQUE,1
+953,Matheus,Pereira,29,Botafogo,3677456,52,99,64,63,59,0,DEFESA,9
+954,Breno,Menezes,27,Flamengo,3813759,81,75,97,70,98,1,GOL,3
+955,Davi,Silva,24,Atlético-PR,4058025,80,59,84,84,98,0,DEFESA,9
+956,Henrique,Carvalho,22,Botafogo,4936655,58,66,64,92,61,0,MEIO,1
+957,Thiago,Janeiro,22,Internacional,3118550,53,77,78,83,62,1,DEFESA,2
+958,Leonardo,Becker,30,Vitória,3383091,53,51,96,63,62,1,DEFESA,5
+959,Gustavo,Silva,29,Bahia,1999090,52,94,93,55,71,0,DEFESA,3
+960,Lucas,Santiago,20,Volta Redonda,758389,71,93,82,76,80,0,LIBERO,2
+961,Leonardo,Cavalcanti,20,Chapecoense,1403058,55,80,50,58,93,1,GOL,4
+962,Rafael,Gomes,32,Vasco,1363619,99,97,60,70,93,1,ATAQUE,5
+963,Carlos,Araujo,21,Corinthians,4708184,87,59,92,93,94,1,DEFESA,8
+964,Rafael,Castro,32,Fortaleza,3913627,56,92,98,55,59,1,GOL,4
+965,João,Neves,22,Palmeiras,3793529,99,52,63,89,57,0,ATAQUE,4
+966,Fernando,Nascimento,20,Palmeiras,4913735,98,80,64,54,63,1,DEFESA,4
+967,Leonardo,Santos,26,Grêmio,2628676,59,77,56,61,71,0,LIBERO,9
+968,João,Santiago,31,Grêmio,4874618,77,76,55,77,70,0,DEFESA,5
+969,Ricardo,Nascimento,32,Santos,2607601,89,96,77,98,85,1,DEFESA,7
+970,Matheus,Silva,26,Chapecoense,4214600,73,70,70,52,76,1,MEIO,8
+971,Jean,Costa,28,Bahia,4631340,94,93,91,83,70,1,LIBERO,6
+972,Leonardo,Becker,26,Flamengo,1646823,53,60,75,76,95,0,DEFESA,1
+973,Breno,Nascimento,29,Palmeiras,2424179,56,84,69,52,62,1,LIBERO,3
+974,Caue,Lima,32,Corinthians,4780958,54,80,83,57,58,1,GOL,3
+975,Matheus,Reis,20,Fortaleza,1434949,98,99,81,57,52,1,ATAQUE,5
+976,Thiago,Araujo,18,Portuguesa,4306469,89,90,77,95,62,0,ATAQUE,0
+977,Carlos,Costa,22,Vitória,2697846,53,78,98,51,79,0,ATAQUE,1
+978,Lucas,Menezes,24,Chapecoense,2197560,96,89,82,87,61,0,DEFESA,4
+979,Eduardo,Oliveira,32,Bahia,298104,70,85,53,73,51,1,LIBERO,0
+980,Thiago,Carvalho,24,Chapecoense,4153736,58,78,98,56,80,0,ATAQUE,4
+981,Lucas,Silva,21,Atlético-PR,3928516,62,50,71,85,74,0,MEIO,5
+982,Fernando,Reis,28,Cruzeiro,742807,68,84,95,78,96,1,MEIO,8
+983,Jean,Lemos,30,Botafogo,5004385,90,86,51,55,72,0,GOL,8
+984,Lucas,Nascimento,23,Fluminense,2584329,82,61,88,51,86,1,GOL,2
+985,Henrique,Pereira,25,Bahia,278578,85,65,65,77,66,0,MEIO,1
+986,Henrique,Carvalho,22,Volta Redonda,3271500,67,65,79,99,70,0,ATAQUE,6
+987,Marcelo,Castro,23,Vasco,1387181,52,98,61,89,76,1,ATAQUE,2
+988,Jean,Neves,28,São Paulo,1612332,77,61,83,94,64,1,LIBERO,4
+989,Maurício,Carvalho,28,Goiás,1570917,80,74,98,85,61,0,DEFESA,7
+990,Jean,Silva,20,Chapecoense,3997523,69,83,57,96,90,0,MEIO,7
+991,Rafael,Reis,24,Santos,3713059,82,60,77,64,77,1,DEFESA,9
+992,Maurício,Becker,21,Chapecoense,1686914,62,70,89,82,97,0,LIBERO,9
+993,Jean,Santos,24,Atlético-PR,2378051,88,93,61,72,88,0,LIBERO,5
+994,Henrique,Becker,24,São Paulo,3249805,85,83,71,97,61,1,LIBERO,8
+995,Pedro,Nascimento,27,Internacional,118432,96,96,84,84,95,0,DEFESA,3
+996,Maurício,Pereira,23,São Paulo,1339340,57,94,97,94,68,1,LIBERO,9
+997,Fernando,Lemos,22,América,3601104,89,72,87,87,71,1,DEFESA,8
+998,Gustavo,Cavalcanti,24,América,133894,53,60,84,62,81,0,DEFESA,2
+999,Lucas,Becker,21,Botafogo,3036316,75,62,70,66,59,1,DEFESA,0
+1000,Rafael,Santiago,31,Chapecoense,1655824,51,86,68,57,53,1,MEIO,6
